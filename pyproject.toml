@@ -1,0 +1,14 @@
+[project]
+name = "uni-comms-intelligence"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "jupyter>=1.1.1",
+    "rouge-score>=0.1.2",
+    "spacy>=3.8.16",
+    "torch>=2.14.0",
+    "transformers>=5.17.0",
+]
