@@ -8,6 +8,7 @@ dependencies = [
     "accelerate>=1.1.0",
     "ipykernel>=7.3.0",
     "jupyter>=1.1.1",
+    "pandas>=3.0.6",
     "rouge-score>=0.1.2",
     "spacy>=3.8.16",
     "torch>=2.14.0",
