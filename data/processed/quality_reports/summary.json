@@ -1,0 +1,57 @@
+{
+  "configuration": {
+    "english_only": true,
+    "minimum_usable_non_whitespace_characters": 40,
+    "near_duplicate_similarity_threshold": 0.95,
+    "near_duplicates_are_review_only": true
+  },
+  "counts_by_category": {
+    "academic": 5,
+    "admission": 76,
+    "announcements": 1,
+    "examination": 10,
+    "general": 25,
+    "hostel": 11,
+    "unknown": 5
+  },
+  "counts_by_university": {
+    "Banaras Hindu University": 76,
+    "Indian Institute of Technology Bombay": 6,
+    "Jawaharlal Nehru University": 26,
+    "University of Lucknow": 20,
+    "unknown": 5
+  },
+  "documents_needing_review": 10,
+  "empty_or_scanned_documents": 53,
+  "exact_duplicate_candidates": 0,
+  "exclusion_reasons": {
+    "insufficient_text": 1,
+    "missing_authoritative_document_id": 5,
+    "mixed_language_requires_review": 4,
+    "unreadable_or_scanned_requires_ocr": 48
+  },
+  "extraction_failures": 0,
+  "generated_at_utc": "2026-09-25T13:15:58.676137+00:00",
+  "included_documents": 75,
+  "language_distribution": {
+    "English": 75,
+    "mixed Hindi/English": 4,
+    "other/unknown": 54
+  },
+  "near_duplicate_review_records": 15,
+  "pipeline_version": "2.0.0",
+  "processing_status_distribution": {
+    "extraction_failed": 48,
+    "included": 75,
+    "needs_review": 10
+  },
+  "quality_thresholds": {
+    "high_non_alphanumeric_ratio": "> 0.35 on text of at least 100 characters",
+    "mixed_language": "at least 20 Devanagari and 20 Latin characters",
+    "replacement_character_flag": "at least 3 characters or more than 1% of text"
+  },
+  "successfully_extracted": 80,
+  "total_pdfs_found": 133,
+  "validation_errors": {},
+  "validation_records_with_errors": 0
+}
