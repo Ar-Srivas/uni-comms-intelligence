@@ -1,0 +1,20 @@
+{
+  "model_type": "OneVsRestClassifier(LogisticRegression)",
+  "vectorizer": "TfidfVectorizer",
+  "ngram_range": [
+    1,
+    2
+  ],
+  "sublinear_tf": true,
+  "classes": [
+    "administrators",
+    "faculty",
+    "students"
+  ],
+  "random_state": 42,
+  "validation_macro_f1": 0.8595,
+  "validation_micro_f1": 0.92,
+  "validation_exact_match_accuracy": 0.8889,
+  "validation_hamming_loss": 0.0741,
+  "svc_validation_macro_f1": 0.8595
+}
