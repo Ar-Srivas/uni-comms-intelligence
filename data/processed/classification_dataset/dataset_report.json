@@ -1,0 +1,173 @@
+{
+  "summary": {
+    "total_records": 150,
+    "real_records": 120,
+    "synthetic_records": 30,
+    "recovery_counts": {
+      "apple_vision_ocr": 42,
+      "native_pypdf": 75,
+      "bilingual_clean_recovery": 3
+    },
+    "excluded_unusable_scanned_documents": 7,
+    "excluded_missing_metadata_documents": 5,
+    "excluded_ordinance_document": 1
+  },
+  "splits": {
+    "total_distribution": {
+      "test": 24,
+      "train": 108,
+      "val": 18
+    },
+    "real_distribution": {
+      "test": 24,
+      "train": 78,
+      "val": 18
+    },
+    "synthetic_in_train_only": true,
+    "test_and_val_are_100_percent_real": true
+  },
+  "categories": {
+    "overall": {
+      "admission": 76,
+      "general": 18,
+      "academic": 17,
+      "hostel": 16,
+      "examination": 14,
+      "announcements": 9
+    },
+    "real": {
+      "admission": 76,
+      "general": 13,
+      "academic": 11,
+      "hostel": 11,
+      "examination": 8,
+      "announcements": 1
+    },
+    "synthetic": {
+      "announcements": 8,
+      "examination": 6,
+      "academic": 6,
+      "general": 5,
+      "hostel": 5
+    }
+  },
+  "audiences": {
+    "individual_label_counts": {
+      "students": 132,
+      "faculty": 44,
+      "administrators": 43
+    },
+    "combination_counts": {
+      "students": 88,
+      "administrators, faculty, students": 15,
+      "faculty, students": 15,
+      "administrators, students": 14,
+      "administrators, faculty": 10,
+      "administrators": 4,
+      "faculty": 4
+    }
+  },
+  "category_x_audience": {
+    "general": {
+      "students": 2,
+      "administrators, faculty, students": 7,
+      "administrators, faculty": 5,
+      "administrators": 3,
+      "administrators, students": 1
+    },
+    "admission": {
+      "students": 75,
+      "administrators, faculty, students": 1
+    },
+    "examination": {
+      "administrators, students": 9,
+      "faculty": 2,
+      "administrators, faculty": 1,
+      "students": 1,
+      "faculty, students": 1
+    },
+    "academic": {
+      "faculty, students": 12,
+      "faculty": 1,
+      "administrators, faculty, students": 1,
+      "administrators, faculty": 3
+    },
+    "hostel": {
+      "administrators, students": 4,
+      "students": 10,
+      "administrators, faculty, students": 1,
+      "administrators, faculty": 1
+    },
+    "announcements": {
+      "administrators, faculty, students": 5,
+      "faculty, students": 2,
+      "faculty": 1,
+      "administrators": 1
+    }
+  },
+  "universities": {
+    "Banaras Hindu University": 75,
+    "University Communications System (Augmented)": 30,
+    "Jawaharlal Nehru University": 26,
+    "University of Lucknow": 13,
+    "Indian Institute of Technology Bombay": 6
+  },
+  "category_corrections": [
+    {
+      "document_id": 10,
+      "notice_id": "CIRC-2026-0010",
+      "title": "Notice for Direct Admission under Sports Quota 2026-27",
+      "original_category": "general",
+      "corrected_category": "admission",
+      "correction_reason": "Document specifies direct admission under sports quota"
+    },
+    {
+      "document_id": 22,
+      "notice_id": "CIRC-2026-0022",
+      "title": "Extension of date for Add/Drop courses for newly admitted students for Monsoon Semester 2026",
+      "original_category": "general",
+      "corrected_category": "academic",
+      "correction_reason": "Document extends course Add/Drop dates for academic semester"
+    },
+    {
+      "document_id": 23,
+      "notice_id": "CIRC-2026-0023",
+      "title": "Commencement of classes for newly admitted students of the UG Prog (AS 2026-27)",
+      "original_category": "general",
+      "corrected_category": "academic",
+      "correction_reason": "Document specifies academic commencement of classes and schedules"
+    },
+    {
+      "document_id": 24,
+      "notice_id": "CIRC-2026-0024",
+      "title": "Extension of registration and Add/Drop date for Monsoon Semester 2026",
+      "original_category": "general",
+      "corrected_category": "academic",
+      "correction_reason": "Document extends course Add/Drop dates for academic semester"
+    },
+    {
+      "document_id": 25,
+      "notice_id": "CIRC-2026-0025",
+      "title": "Registration for Monsoon Semester 2026",
+      "original_category": "general",
+      "corrected_category": "academic",
+      "correction_reason": "Document specifies academic semester course registration procedure"
+    },
+    {
+      "document_id": 30,
+      "notice_id": "CIRC-2026-0030",
+      "title": "Notification for commencement of classes for Ph.D Winter 2026 batch",
+      "original_category": "general",
+      "corrected_category": "academic",
+      "correction_reason": "Document specifies academic commencement of classes and schedules"
+    },
+    {
+      "document_id": 31,
+      "notice_id": "CIRC-2026-0031",
+      "title": "Extension of Add/Drop date for Winter Semester 2026",
+      "original_category": "general",
+      "corrected_category": "academic",
+      "correction_reason": "Document extends course Add/Drop dates for academic semester"
+    }
+  ]
+}
