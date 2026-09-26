@@ -1,0 +1,109 @@
+{
+  "test_samples": 24,
+  "accuracy": 0.9583,
+  "macro_precision": 0.95,
+  "weighted_precision": 0.9688,
+  "macro_recall": 0.9867,
+  "weighted_recall": 0.9583,
+  "macro_f1": 0.9645,
+  "weighted_f1": 0.9606,
+  "per_category": {
+    "academic": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2
+    },
+    "admission": {
+      "precision": 1.0,
+      "recall": 0.9333,
+      "f1-score": 0.9655,
+      "support": 15
+    },
+    "announcements": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 0
+    },
+    "examination": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2
+    },
+    "general": {
+      "precision": 0.75,
+      "recall": 1.0,
+      "f1-score": 0.8571,
+      "support": 3
+    },
+    "hostel": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2
+    }
+  },
+  "confusion_matrix": {
+    "classes": [
+      "academic",
+      "admission",
+      "announcements",
+      "examination",
+      "general",
+      "hostel"
+    ],
+    "matrix": [
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        14,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        2,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    ]
+  },
+  "errors_count": 1
+}

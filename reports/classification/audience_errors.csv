@@ -1,0 +1,5 @@
+document_id,title,true_audience,predicted_audience,confidences
+3,Strict Compliance with UGC Regulations 2009 for Prevention of Ragging,"[""administrators"", ""faculty"", ""students""]","[""administrators"", ""students""]","{""administrators"": 0.5448, ""faculty"": 0.4976, ""students"": 0.6886}"
+23,Commencement of classes for newly admitted students of the UG Prog (AS 2026-27),"[""faculty"", ""students""]","[""administrators"", ""faculty"", ""students""]","{""administrators"": 0.5773, ""faculty"": 0.6803, ""students"": 0.6705}"
+30,Notification for commencement of classes for Ph.D Winter 2026 batch,"[""faculty"", ""students""]","[""administrators"", ""faculty"", ""students""]","{""administrators"": 0.5852, ""faculty"": 0.6757, ""students"": 0.6709}"
+33,"Implementation of the nationwide ""Nasha Mukt Yuva for Viksit Bharat"" Campaign on 2nd August, 2026","[""administrators"", ""faculty""]","[""administrators"", ""faculty"", ""students""]","{""administrators"": 0.6309, ""faculty"": 0.6222, ""students"": 0.7251}"

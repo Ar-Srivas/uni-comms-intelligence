@@ -1,0 +1,21 @@
+{
+  "model_type": "LogisticRegression",
+  "vectorizer": "TfidfVectorizer",
+  "ngram_range": [
+    1,
+    2
+  ],
+  "sublinear_tf": false,
+  "classes": [
+    "academic",
+    "admission",
+    "announcements",
+    "examination",
+    "general",
+    "hostel"
+  ],
+  "random_state": 42,
+  "validation_accuracy": 1.0,
+  "validation_macro_f1": 1.0,
+  "linearsvc_validation_macro_f1": 1.0
+}

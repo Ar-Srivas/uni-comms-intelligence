@@ -1,0 +1,15 @@
+CATEGORY CLASSIFICATION REPORT (Test Set: 24 Real Documents)
+=================================================================
+
+               precision    recall  f1-score   support
+
+     academic       1.00      1.00      1.00         2
+    admission       1.00      0.93      0.97        15
+announcements       0.00      0.00      0.00         0
+  examination       1.00      1.00      1.00         2
+      general       0.75      1.00      0.86         3
+       hostel       1.00      1.00      1.00         2
+
+     accuracy                           0.96        24
+    macro avg       0.79      0.82      0.80        24
+ weighted avg       0.97      0.96      0.96        24
