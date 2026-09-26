@@ -1,0 +1,13 @@
+AUDIENCE MULTI-LABEL CLASSIFICATION REPORT (Test Set: 24 Real Documents)
+=================================================================
+
+                precision    recall  f1-score   support
+
+administrators       0.67      1.00      0.80         4
+       faculty       1.00      0.75      0.86         4
+      students       0.96      1.00      0.98        23
+
+     micro avg       0.91      0.97      0.94        31
+     macro avg       0.88      0.92      0.88        31
+  weighted avg       0.93      0.97      0.94        31
+   samples avg       0.96      0.99      0.97        31

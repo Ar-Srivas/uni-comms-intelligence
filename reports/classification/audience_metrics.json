@@ -1,0 +1,29 @@
+{
+  "test_samples": 24,
+  "micro_f1": 0.9375,
+  "macro_f1": 0.8786,
+  "weighted_f1": 0.94,
+  "exact_match_accuracy": 0.8333,
+  "hamming_loss": 0.0556,
+  "per_audience": {
+    "administrators": {
+      "precision": 0.6667,
+      "recall": 1.0,
+      "f1-score": 0.8,
+      "support": 4
+    },
+    "faculty": {
+      "precision": 1.0,
+      "recall": 0.75,
+      "f1-score": 0.8571,
+      "support": 4
+    },
+    "students": {
+      "precision": 0.9583,
+      "recall": 1.0,
+      "f1-score": 0.9787,
+      "support": 23
+    }
+  },
+  "errors_count": 4
+}
