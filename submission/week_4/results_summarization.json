@@ -1,0 +1,17 @@
+{
+  "system_a": {
+    "rouge1": 0.2529,
+    "rouge2": 0.105,
+    "rougeL": 0.1861,
+    "avg_len": 26.2,
+    "hall_rate": 0.0667
+  },
+  "system_b": {
+    "rouge1": 0.2328,
+    "rouge2": 0.0985,
+    "rougeL": 0.1866,
+    "avg_len": 19.3,
+    "hall_rate": 0.0
+  },
+  "system_c": null
+}

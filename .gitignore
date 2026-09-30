@@ -3,3 +3,13 @@
 __pycache__/
 .DS_Store
 .ipynb_checkpoints/
+
+# Model weights and large artifacts
+models/*.joblib
+models/embeddings_minilm/
+models/bart_sysA/
+models/bart_sysA_best/
+models/bart_sysB/
+models/bart_sysB_best/
+models/category_classifier_sbert.joblib
+models/audience_classifier_sbert.joblib
