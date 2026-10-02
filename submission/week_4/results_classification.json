@@ -1,0 +1,38 @@
+{
+  "category": {
+    "baseline": {
+      "accuracy": 0.9583,
+      "macro_f1": 0.9645,
+      "weighted_f1": 0.9606
+    },
+    "improved": {
+      "accuracy": 0.875,
+      "macro_f1": 0.7875,
+      "weighted_f1": 0.8568
+    }
+  },
+  "audience": {
+    "baseline": {
+      "micro_f1": 0.9375,
+      "macro_f1": 0.8786,
+      "exact_match": 0.8333,
+      "hamming": 0.0556,
+      "per_label": {
+        "administrators": 0.8,
+        "faculty": 0.8571,
+        "students": 0.9787
+      }
+    },
+    "improved": {
+      "micro_f1": 0.9206,
+      "macro_f1": 0.8342,
+      "exact_match": 0.8333,
+      "hamming": 0.0694,
+      "per_label": {
+        "administrators": 0.6667,
+        "faculty": 0.8571,
+        "students": 0.9787
+      }
+    }
+  }
+}
