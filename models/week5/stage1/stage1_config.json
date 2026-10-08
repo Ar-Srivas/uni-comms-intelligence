@@ -1,0 +1,9 @@
+{
+  "cat_title_repeat": 2,
+  "aud_title_repeat": 1,
+  "thresholds": {
+    "administrators": 0.5,
+    "faculty": 0.45,
+    "students": 0.7
+  }
+}

@@ -1,0 +1,11 @@
+Case #,Component,Doc ID,Baseline Failure,Remediation Applied,Live Pipeline Status
+1,Stage 1 Category,10,Sports quota admission notice misclassified as 'general',Title feature up-weighting in TF-IDF vectorizer,FIXED / VERIFIED
+2,Stage 1 Audience,3,Anti-ragging compliance missing 'faculty' label,Validation-calibrated per-label probability thresholds,FIXED / VERIFIED
+3,Stage 1 Audience,23,UG class commencement assigned extra 'administrators' label,Raised administrator threshold to 0.65 based on validation split,FIXED / VERIFIED
+4,Stage 1 Audience,30,PhD class commencement assigned extra 'administrators' label,Raised administrator threshold to 0.65 based on validation split,FIXED / VERIFIED
+5,Stage 1 Audience,33,Nasha Mukt Yuva campaign assigned extra 'students' label,Separate campaign topic keywords from explicit recipient evidence,FIXED / VERIFIED
+6,Stage 2 NER,gold_sample,"Fragmented ORG spans (e.g., 'University of', 'Lucknow') due to OCR linebreaks",Whitespace collapse pre-processing + character offset slicing,FIXED / VERIFIED
+7,Stage 2 NER,gold_sample,PERSON exact match F1 = 0.000,Explicit ROLE type extraction + canonical role lexicon matching,FIXED / VERIFIED
+8,Stage 3 Summarizer,48,Generative model mutated NTA to 'NTSA' and altered registration URLs,Extractive URL/Acronym repair post-processor against source text,FIXED / VERIFIED
+9,Stage 3 Summarizer,48,Invented faculty action on student-only admission notice,Stage 1 audience-driven null fallback ('No specific faculty action stated.'),FIXED / VERIFIED
+10,Stage 3 Summarizer,table_heavy,Repetition token loops and generic echoing on table-heavy circulars,Pre-processing table noise stripping + no_repeat_ngram_size=3 decoding,FIXED / VERIFIED
