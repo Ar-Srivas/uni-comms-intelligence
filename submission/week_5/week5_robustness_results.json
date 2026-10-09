@@ -1,0 +1,102 @@
+{
+  "stage1": {
+    "cat_accuracy": {
+      "clean": 0.9167,
+      "lowercase": 0.9167,
+      "uppercase": 0.9167,
+      "ocr_noise": 0.9167,
+      "linebreak_noise": 0.9167,
+      "drop_first_line": 0.9583,
+      "truncate_50": 0.875,
+      "email_wrapper": 0.9583
+    },
+    "aud_micro_f1": {
+      "clean": 0.8852,
+      "lowercase": 0.8852,
+      "uppercase": 0.8852,
+      "ocr_noise": 0.9032,
+      "linebreak_noise": 0.8852,
+      "drop_first_line": 0.8852,
+      "truncate_50": 0.871,
+      "email_wrapper": 0.871
+    },
+    "cat_flip_rate": {
+      "clean": 0.0,
+      "lowercase": 0.0,
+      "uppercase": 0.0,
+      "ocr_noise": 0.0833,
+      "linebreak_noise": 0.0,
+      "drop_first_line": 0.0417,
+      "truncate_50": 0.0417,
+      "email_wrapper": 0.0417
+    },
+    "aud_flip_rate": {
+      "clean": 0.0,
+      "lowercase": 0.0,
+      "uppercase": 0.0,
+      "ocr_noise": 0.0417,
+      "linebreak_noise": 0.0,
+      "drop_first_line": 0.0,
+      "truncate_50": 0.0417,
+      "email_wrapper": 0.0417
+    }
+  },
+  "stage2": {
+    "precision": {
+      "clean": 0.7297,
+      "lowercase": 0.9048,
+      "uppercase": 0.7143,
+      "ocr_noise": 0.6757,
+      "linebreak_noise": 0.7297,
+      "drop_first_line": 0.7,
+      "truncate_50": 0.625,
+      "email_wrapper": 0.6
+    },
+    "recall": {
+      "clean": 0.9286,
+      "lowercase": 0.6429,
+      "uppercase": 0.6786,
+      "ocr_noise": 0.8571,
+      "linebreak_noise": 0.9286,
+      "drop_first_line": 0.2857,
+      "truncate_50": 0.3929,
+      "email_wrapper": 0.9286
+    },
+    "f1": {
+      "clean": 0.8172,
+      "lowercase": 0.7516,
+      "uppercase": 0.696,
+      "ocr_noise": 0.7557,
+      "linebreak_noise": 0.8172,
+      "drop_first_line": 0.4058,
+      "truncate_50": 0.4825,
+      "email_wrapper": 0.729
+    }
+  },
+  "stage3": {
+    "ROUGE-1": {
+      "clean": 0.2726,
+      "lowercase": 0.2412,
+      "ocr_noise": 0.2394,
+      "linebreak_noise": 0.3489,
+      "truncate_50": 0.2404,
+      "email_wrapper": 0.2543
+    },
+    "ROUGE-L": {
+      "clean": 0.1718,
+      "lowercase": 0.165,
+      "ocr_noise": 0.1764,
+      "linebreak_noise": 0.2698,
+      "truncate_50": 0.1865,
+      "email_wrapper": 0.2118
+    },
+    "docs_with_unsupported_year": {
+      "clean": 0,
+      "lowercase": 0,
+      "ocr_noise": 0,
+      "linebreak_noise": 0,
+      "truncate_50": 0,
+      "email_wrapper": 0
+    }
+  }
+}
