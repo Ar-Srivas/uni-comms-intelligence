@@ -9,6 +9,7 @@ dependencies = [
     "bert-score>=0.3.13",
     "datasets>=5.0.1",
     "evaluate>=0.4.6",
+    "fastapi>=0.143.2",
     "ipykernel>=7.3.0",
     "jupyter>=1.1.1",
     "matplotlib>=3.11.2",
