@@ -1,0 +1,35 @@
+{
+  "model_type": "LogisticRegression(class_weight='balanced')",
+  "selected_model": "balanced",
+  "classes": [
+    "academic",
+    "admissions",
+    "announcements",
+    "examinations",
+    "placements"
+  ],
+  "random_state": 42,
+  "vectorizer": {
+    "type": "TfidfVectorizer",
+    "ngram_range": [
+      1,
+      2
+    ],
+    "sublinear_tf": true,
+    "min_df": 2,
+    "max_df": 0.9,
+    "vocab_size": 2743
+  },
+  "validation_comparison": {
+    "standard": {
+      "accuracy": 0.5882,
+      "macro_f1": 0.4103,
+      "weighted_f1": 0.4857
+    },
+    "balanced": {
+      "accuracy": 0.8235,
+      "macro_f1": 0.8206,
+      "weighted_f1": 0.8185
+    }
+  }
+}

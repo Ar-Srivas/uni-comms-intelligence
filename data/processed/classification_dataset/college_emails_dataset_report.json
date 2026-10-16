@@ -1,0 +1,63 @@
+{
+  "summary": {
+    "total_records": 114,
+    "splits": {
+      "train": 80,
+      "val": 17,
+      "test": 17
+    },
+    "leakage_checks_passed": true,
+    "duplicate_clusters_isolated_to_train": true
+  },
+  "category_distribution": {
+    "overall": {
+      "examinations": 35,
+      "placements": 31,
+      "admissions": 20,
+      "announcements": 16,
+      "academic": 12
+    },
+    "by_split": {
+      "train": {
+        "examinations": 25,
+        "placements": 21,
+        "admissions": 14,
+        "announcements": 12,
+        "academic": 8
+      },
+      "val": {
+        "examinations": 5,
+        "placements": 5,
+        "admissions": 3,
+        "academic": 2,
+        "announcements": 2
+      },
+      "test": {
+        "examinations": 5,
+        "placements": 5,
+        "admissions": 3,
+        "academic": 2,
+        "announcements": 2
+      }
+    }
+  },
+  "audience_distribution": {
+    "by_split": {
+      "train": {
+        "admin": 5,
+        "faculty": 5,
+        "student": 80
+      },
+      "val": {
+        "admin": 2,
+        "faculty": 2,
+        "student": 17
+      },
+      "test": {
+        "admin": 2,
+        "faculty": 3,
+        "student": 17
+      }
+    }
+  }
+}

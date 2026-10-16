@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "task": "Week 6 Classifier Retraining & Evaluation",
+    "eval_split": "test",
+    "sample_count": 17
+  },
+  "category_evaluation": {
+    "comparison": {
+      "standard_lr": {
+        "accuracy": 0.7059,
+        "macro_f1": 0.5285,
+        "weighted_f1": 0.6478
+      },
+      "balanced_lr": {
+        "accuracy": 0.8235,
+        "macro_precision": 0.6333,
+        "macro_recall": 0.7,
+        "macro_f1": 0.6618,
+        "weighted_f1": 0.785
+      }
+    },
+    "per_category": {
+      "academic": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 2
+      },
+      "admissions": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "support": 3
+      },
+      "announcements": {
+        "precision": 0.3333,
+        "recall": 0.5,
+        "f1_score": 0.4,
+        "support": 2
+      },
+      "examinations": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "support": 5
+      },
+      "placements": {
+        "precision": 0.8333,
+        "recall": 1.0,
+        "f1_score": 0.9091,
+        "support": 5
+      }
+    },
+    "confusion_matrix": {
+      "classes": [
+        "academic",
+        "admissions",
+        "announcements",
+        "examinations",
+        "placements"
+      ],
+      "matrix": [
+        [
+          0,
+          0,
+          2,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          5,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          5
+        ]
+      ]
+    }
+  },
+  "audience_evaluation": {
+    "comparison": {
+      "standard_lr_default_0.5": {
+        "exact_match_accuracy": 0.7647,
+        "hamming_loss": 0.098,
+        "macro_f1": 0.3333,
+        "micro_f1": 0.8718
+      },
+      "balanced_lr_tuned_thresholds": {
+        "exact_match_accuracy": 0.5882,
+        "hamming_loss": 0.1765,
+        "macro_f1": 0.4667,
+        "micro_f1": 0.8,
+        "weighted_f1": 0.8273,
+        "tuned_thresholds": {
+          "admin": 0.2,
+          "faculty": 0.2,
+          "student": 0.2
+        }
+      }
+    },
+    "per_audience": {
+      "admin": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 2
+      },
+      "faculty": {
+        "precision": 0.5,
+        "recall": 0.3333,
+        "f1_score": 0.4,
+        "support": 3
+      },
+      "student": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "support": 17
+      }
+    }
+  }
+}

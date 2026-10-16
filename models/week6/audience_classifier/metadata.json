@@ -1,0 +1,40 @@
+{
+  "model_type": "OneVsRestClassifier(LogisticRegression(class_weight='balanced'))",
+  "selected_model": "balanced_tuned",
+  "classes": [
+    "admin",
+    "faculty",
+    "student"
+  ],
+  "tuned_thresholds": {
+    "admin": 0.2,
+    "faculty": 0.2,
+    "student": 0.2
+  },
+  "random_state": 42,
+  "vectorizer": {
+    "type": "TfidfVectorizer",
+    "ngram_range": [
+      1,
+      2
+    ],
+    "sublinear_tf": true,
+    "min_df": 2,
+    "max_df": 0.9,
+    "vocab_size": 2743
+  },
+  "validation_comparison": {
+    "standard_default_threshold": {
+      "exact_match_accuracy": 0.7647,
+      "hamming_loss": 0.0784,
+      "macro_f1": 0.3333,
+      "micro_f1": 0.8947
+    },
+    "balanced_tuned_threshold": {
+      "exact_match_accuracy": 0.5882,
+      "hamming_loss": 0.1373,
+      "macro_f1": 0.7037,
+      "micro_f1": 0.8571
+    }
+  }
+}
