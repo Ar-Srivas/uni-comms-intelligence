@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>University Communications Intelligence</title>
+  <meta name="description" content="Turn university notices and syllabi into clear, audience-specific communications.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Header / Navigation Bar -->
+  <header class="navbar" role="banner">
+    <div class="nav-container">
+      <div class="nav-brand">
+        <span class="brand-crest" aria-hidden="true">&#9872;</span>
+        <span class="brand-name">AI University</span>
+      </div>
+      <nav class="nav-links" aria-label="Main Navigation">
+        <a href="#home" class="nav-link">Home</a>
+        <a href="#about" class="nav-link">About</a>
+        <a href="#communications" class="nav-link active" aria-current="page">University Communications</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Main Content Layout -->
+  <main class="main-container" id="communications">
+    <!-- Page Heading -->
+    <header class="page-header">
+      <h1 class="page-title">University Communications Intelligence</h1>
+      <p class="page-subtitle">Turn university notices and syllabi into clear, audience-specific communications.</p>
+    </header>
+
+    <div class="dashboard-layout">
+      <!-- Primary Column (Input and Results) -->
+      <div class="primary-column">
+        <!-- Input Panel -->
+        <section class="panel input-panel" aria-labelledby="input-panel-title">
+          <div class="panel-header">
+            <h2 id="input-panel-title" class="panel-title">Notice &amp; Syllabus Input</h2>
+          </div>
+
+          <!-- Tabs for Upload / Paste -->
+          <div class="tab-bar" role="tablist" aria-label="Input Mode Tabs">
+            <button
+              type="button"
+              id="tab-paste"
+              class="tab-btn active"
+              role="tab"
+              aria-selected="true"
+              aria-controls="paste-panel"
+            >
+              Paste text
+            </button>
+            <button
+              type="button"
+              id="tab-upload"
+              class="tab-btn"
+              role="tab"
+              aria-selected="false"
+              aria-controls="upload-panel"
+            >
+              Upload file
+            </button>
+          </div>
+
+          <!-- Tab Content: Paste Text -->
+          <div id="paste-panel" class="tab-panel" role="tabpanel" aria-labelledby="tab-paste">
+            <label for="notice-text" class="field-label">Notice or syllabus content:</label>
+            <textarea
+              id="notice-text"
+              class="notice-textarea"
+              rows="9"
+              placeholder="Paste the raw text of the university notice, syllabus update, or academic circular here..."
+              spellcheck="true"
+            ></textarea>
+          </div>
+
+          <!-- Tab Content: Upload File -->
+          <div id="upload-panel" class="tab-panel hidden" role="tabpanel" aria-labelledby="tab-upload">
+            <label for="file-input" class="field-label">Upload notice document (.txt format, max 5 MB):</label>
+            <div id="drop-zone" class="drop-zone" tabindex="0" role="region" aria-label="File upload drop zone">
+              <input type="file" id="file-input" class="file-input" accept=".txt" aria-label="Upload text file">
+              <div class="drop-zone-prompt">
+                <span class="drop-zone-icon" aria-hidden="true">&#128196;</span>
+                <p class="drop-zone-text"><strong>Choose a file</strong> or drag &amp; drop it here</p>
+                <p class="drop-zone-hint">Supports text files (.txt) up to 5 MB</p>
+              </div>
+            </div>
+            <div id="file-info" class="file-info hidden" aria-live="polite">
+              <span class="file-name" id="selected-file-name"></span>
+              <span class="file-size" id="selected-file-size"></span>
+              <button type="button" id="remove-file-btn" class="btn-link" aria-label="Remove selected file">Remove</button>
+            </div>
+          </div>
+
+          <!-- Action Buttons -->
+          <div class="action-bar">
+            <div class="action-primary-group">
+              <button type="button" id="analyze-btn" class="btn btn-primary">
+                <span class="btn-spinner hidden" aria-hidden="true"></span>
+                <span class="btn-text">Analyze notice</span>
+              </button>
+              <button type="button" id="load-sample-btn" class="btn btn-secondary">
+                Load sample
+              </button>
+            </div>
+            <div class="action-secondary-group">
+              <button type="button" id="clear-btn" class="btn btn-outline" title="Clear inputs and results">
+                Clear
+              </button>
+            </div>
+          </div>
+
+          <!-- Status Message Container -->
+          <div id="status-message" class="status-box hidden" role="status" aria-live="polite"></div>
+        </section>
+
+        <!-- Results Panel -->
+        <section id="results-panel" class="panel results-panel hidden" aria-labelledby="results-panel-title">
+          <div class="panel-header results-header">
+            <h2 id="results-panel-title" class="panel-title">Analysis Results</h2>
+            <div id="preview-mode-tag" class="preview-mode-tag hidden">
+              Layout Preview Mode
+            </div>
+          </div>
+
+          <!-- Metadata Fields -->
+          <div class="results-meta-grid">
+            <div class="meta-card">
+              <span class="meta-label">Predicted Category</span>
+              <div id="result-category" class="meta-value category-value">—</div>
+            </div>
+            <div class="meta-card">
+              <span class="meta-label">Target Audience</span>
+              <div id="result-audience" class="meta-value audience-container">—</div>
+            </div>
+          </div>
+
+          <!-- Extracted Information Section -->
+          <div class="extracted-info-section">
+            <h3 class="section-heading">Extracted Information</h3>
+            <div id="extracted-entities" class="entities-grid">
+              <!-- Dynamically populated entity groups -->
+            </div>
+          </div>
+
+          <!-- Side-by-Side Email Cards Section -->
+          <div class="email-cards-section">
+            <h3 class="section-heading">Audience-Specific Communications</h3>
+            <p class="section-description">
+              Review and edit the generated communications below. Click "Copy email" to copy the draft directly to your clipboard.
+            </p>
+
+            <div class="email-cards-grid">
+              <!-- Student Email Card -->
+              <article class="email-card" aria-labelledby="student-card-title">
+                <div class="email-card-header">
+                  <div class="email-card-title-group">
+                    <span class="recipient-badge student-badge">Students</span>
+                    <h4 id="student-card-title" class="email-card-title">Student Email Draft</h4>
+                  </div>
+                  <button
+                    type="button"
+                    class="btn btn-copy"
+                    id="copy-student-btn"
+                    data-target="student-email-text"
+                    aria-label="Copy student email to clipboard"
+                  >
+                    Copy email
+                  </button>
+                </div>
+                <div class="email-card-body">
+                  <label for="student-email-text" class="sr-only">Student email draft content</label>
+                  <textarea
+                    id="student-email-text"
+                    class="email-textarea"
+                    rows="12"
+                    placeholder="Student-targeted communication will appear here..."
+                    spellcheck="true"
+                  ></textarea>
+                </div>
+              </article>
+
+              <!-- Faculty Email Card -->
+              <article class="email-card" aria-labelledby="faculty-card-title">
+                <div class="email-card-header">
+                  <div class="email-card-title-group">
+                    <span class="recipient-badge faculty-badge">Faculty</span>
+                    <h4 id="faculty-card-title" class="email-card-title">Faculty Email Draft</h4>
+                  </div>
+                  <button
+                    type="button"
+                    class="btn btn-copy"
+                    id="copy-faculty-btn"
+                    data-target="faculty-email-text"
+                    aria-label="Copy faculty email to clipboard"
+                  >
+                    Copy email
+                  </button>
+                </div>
+                <div class="email-card-body">
+                  <label for="faculty-email-text" class="sr-only">Faculty email draft content</label>
+                  <textarea
+                    id="faculty-email-text"
+                    class="email-textarea"
+                    rows="12"
+                    placeholder="Faculty-targeted communication will appear here..."
+                    spellcheck="true"
+                  ></textarea>
+                </div>
+              </article>
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <!-- Right Sidebar Column -->
+      <aside class="secondary-column" aria-label="Tool Information and Reference">
+        <!-- About This Tool -->
+        <section class="panel sidebar-panel" aria-labelledby="about-tool-title">
+          <h3 id="about-tool-title" class="sidebar-heading">About this tool</h3>
+          <p class="sidebar-text">
+            University Communications Intelligence automatically analyzes unstructured institutional notices, policy updates, and academic syllabi.
+          </p>
+          <p class="sidebar-text">
+            It accurately determines notice categories, identifies primary stakeholder audiences, extracts critical deadlines and contact information, and generates tailored email drafts for students and faculty.
+          </p>
+        </section>
+
+        <!-- Example Input -->
+        <section class="panel sidebar-panel" aria-labelledby="example-input-title">
+          <h3 id="example-input-title" class="sidebar-heading">Example input</h3>
+          <p class="sidebar-caption">Sample updated syllabus &amp; midterm notice:</p>
+          <div class="example-box">
+            <pre class="example-text" id="sidebar-sample-preview">DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING
+ACADEMIC YEAR 2026-2027 | SEMESTER I
+
+COURSE SYLLABUS UPDATE & EXAMINATION SCHEDULE NOTICE
+
+Course Code: CS-402 (Advanced Machine Learning & NLP)
+Instructor: Dr. Eleanor Vance (evance@university.edu)
+Office: Turing Hall, Room 304 | Office Hours: Tue/Thu 2:00 PM - 4:00 PM
+
+Dear Students and Faculty Members,
+
+Please take note of the updated course syllabus, revised project submission deadlines, and upcoming midterm examination schedule:
+
+1. Revised Syllabus Topics:
+   - Weeks 1-4: Classical Text Classification & Feature Engineering
+   - Weeks 5-7: Sequence Labeling & Named Entity Recognition (NER)
+   - Weeks 8-11: Sequence-to-Sequence Modeling & Persona-conditioned Summarization
+   - Weeks 12-14: Model Evaluation, Robustness Audits, and Production Deployment
+
+2. Key Deadlines:
+   - Project Proposal Submission: 15/10/2026 by 11:59 PM via LMS portal
+   - Midterm Examination: 05/11/2026 from 10:00 AM to 12:00 PM (Auditorium Hall B)
+   - Final Term Project & Code Freeze: 10/12/2026 by 5:00 PM
+
+3. Instructions for Faculty:
+   - Teaching assistants must submit rubric scorecards to the Academic Registrar by 20/10/2026.
+   - Proctoring assignments will be communicated by Controller of Examinations.
+
+For questions regarding course policies or accommodations, please contact cs-queries@university.edu or visit https://cs.university.edu/courses/cs402.
+
+Approved by:
+Prof. Arthur Pendelton
+Dean of Academic Affairs
+AI University</pre>
+          </div>
+          <button type="button" id="sidebar-load-sample-btn" class="btn btn-secondary btn-block">
+            Load this sample into editor
+          </button>
+        </section>
+
+        <!-- How It Works -->
+        <section class="panel sidebar-panel" aria-labelledby="how-it-works-title">
+          <h3 id="how-it-works-title" class="sidebar-heading">How the tool works</h3>
+          <ol class="pipeline-list">
+            <li>
+              <strong>Stage 1: Classification</strong>
+              <p>TF-IDF + Linear Classifier classifies the notice category (e.g., examination, academic) and predicts target audiences (students, faculty, administrators).</p>
+            </li>
+            <li>
+              <strong>Stage 2: Entity Extraction</strong>
+              <p>Transformer-based Named Entity Recognition (NER) and regex extract dates, deadlines, emails, organizations, and institutional roles.</p>
+            </li>
+            <li>
+              <strong>Stage 3: Persona Summarization</strong>
+              <p>A fine-tuned sequence-to-sequence model synthesizes audience-specific email drafts targeting student actions and faculty responsibilities.</p>
+            </li>
+          </ol>
+        </section>
+
+        <!-- Backend Configuration & Layout Test -->
+        <section class="panel sidebar-panel config-panel" aria-labelledby="api-config-title">
+          <h3 id="api-config-title" class="sidebar-heading">Backend &amp; Testing</h3>
+          <div class="config-field">
+            <label for="api-endpoint-input" class="config-label">API Endpoint:</label>
+            <input
+              type="url"
+              id="api-endpoint-input"
+              class="config-input"
+              value="http://localhost:8000/process-notice"
+              placeholder="http://localhost:8000/process-notice"
+            >
+          </div>
+          <p class="config-hint">
+            Ensure the FastAPI server is running at this endpoint to receive live model predictions.
+          </p>
+          <button
+            type="button"
+            id="layout-preview-btn"
+            class="btn btn-outline btn-block"
+            title="Inspect frontend layout and interactions with sample structured data when backend is offline"
+          >
+            Preview UI layout with sample data
+          </button>
+        </section>
+      </aside>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer" role="contentinfo">
+    <div class="footer-container">
+      <p class="footer-text">&copy; 2026 AI University &bull; University Communications Intelligence &bull; Natural Language Processing System</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
