@@ -378,8 +378,9 @@ Department of Computer Science & Engineering`
 
     // 4. Email Drafts
     const summaries = data.summaries || {};
-    const studentDraft = summaries.student || data.student_summary || 'No student-specific action stated.';
-    const facultyDraft = summaries.faculty || data.faculty_summary || 'No faculty-specific action stated.';
+    const emails = data.emails || {};
+    const studentDraft = emails.student || summaries.student || data.student_summary || 'No student-specific action stated.';
+    const facultyDraft = emails.faculty || summaries.faculty || data.faculty_summary || 'No faculty-specific action stated.';
 
     studentEmailText.value = studentDraft;
     facultyEmailText.value = facultyDraft;
@@ -431,7 +432,7 @@ Department of Computer Science & Engineering`
     // 2. Endpoint Configuration
     const endpoint = (apiEndpointInput && apiEndpointInput.value.trim())
       ? apiEndpointInput.value.trim()
-      : 'http://localhost:8000/process-notice';
+      : '/process-notice';
 
     // 3. UI Loading State
     setLoading(true);
@@ -476,7 +477,7 @@ Department of Computer Science & Engineering`
 
       let helpfulMessage = '';
       if (err.name === 'TypeError' || err.message.includes('Failed to fetch') || err.message.includes('NetworkError')) {
-        helpfulMessage = `Unable to connect to NLP backend at "${endpoint}". Please ensure the backend server is running and accepting CORS requests. You can also click "Preview UI layout with sample data" to test UI interactions.`;
+        helpfulMessage = `Unable to connect to NLP backend at "${endpoint}". Please ensure the server is running. You can also click "Preview UI layout with sample data" to test UI interactions.`;
       } else {
         helpfulMessage = `Analysis failed: ${err.message}`;
       }

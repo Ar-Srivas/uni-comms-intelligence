@@ -30,37 +30,22 @@ frontend/
 
 ## 3. How to Run Locally
 
-You can run the frontend using any standard local HTTP server or by opening `index.html` directly in a browser.
-
-### Option A: Python Built-In HTTP Server (Recommended)
-From the project root directory:
+The FastAPI server serves both the frontend and API. From `submission/week_7`:
 
 ```bash
-python3 -m http.server 3000 --directory frontend
+uvicorn src.api:app --reload --port 8000
 ```
 
-Then open your browser to:
-[http://localhost:3000](http://localhost:3000)
-
-### Option B: Node.js `npx serve` or `http-server`
-```bash
-npx serve frontend -p 3000
-```
-
-### Option C: Direct File Access
-Double-click `frontend/index.html` or open it in Google Chrome, Firefox, or Safari:
-```bash
-open frontend/index.html
-```
+Then open [http://localhost:8000](http://localhost:8000).
 
 ---
 
 ## 4. Backend API Integration & Contract
 
-The frontend connects directly to the multi-stage NLP pipeline exposed in `submission/week_6/src/api.py`.
+The frontend connects to the multi-stage NLP pipeline served by `src/api.py`.
 
 ### Endpoint Configuration
-- **Default Endpoint:** `http://localhost:8000/process-notice`
+- **Default Endpoint:** `/process-notice` (same server)
 - **Method:** `POST`
 - **Configurable in UI:** The sidebar includes an **API Endpoint** input field where you can point the frontend to any port or remote host without modifying code.
 
@@ -95,26 +80,6 @@ The frontend connects directly to the multi-stage NLP pipeline exposed in `submi
   }
 }
 ```
-
-### Running the Backend Server
-To start the FastAPI backend from the repository root:
-
-```bash
-uvicorn submission.week_6.src.api:app --reload --host 0.0.0.0 --port 8000
-```
-
-> **Note on CORS:** If serving the frontend from a different port (e.g. `localhost:3000`) and calling the backend at `localhost:8000`, ensure FastAPI includes `CORSMiddleware` in `api.py`:
-> ```python
-> from fastapi.middleware.cors import CORSMiddleware
-> 
-> app.add_middleware(
->     CORSMiddleware,
->     allow_origins=["*"],
->     allow_credentials=True,
->     allow_methods=["*"],
->     allow_headers=["*"],
-> )
-> ```
 
 ---
 

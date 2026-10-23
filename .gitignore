@@ -14,3 +14,5 @@ models/bart_sysB_best/
 models/category_classifier_sbert.joblib
 models/audience_classifier_sbert.joblibs
 summarizer_final/
+
+.docx
