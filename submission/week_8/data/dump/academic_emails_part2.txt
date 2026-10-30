@@ -1,0 +1,507 @@
+ACADEMIC EMAILS DATASET - PART 2
+Total emails: 20
+All emails below are newly written, with fictional names, departments, and details.
+Fields per email: ID, Category, Date, From, To, Cc, Subject, Body
+
+################################################################################
+EMAIL 21
+Category: Orientation Program
+Date: 20.07.2026
+From: Devika Rajan, Dean of Student Affairs
+To: B.Tech 2026-30 (All Branches)
+Cc: Rohan Malhotra; Shruti Pillai
+Subject: Orientation Program for First Year Students - 28.07.2026 to 30.07.2026
+
+--------------------------------------------------------------------------------
+Dear Students,
+
+Welcome to the institute! The Orientation Program for the newly admitted batch (AY 2026-27) is scheduled from Tuesday, 28.07.2026 to Thursday, 30.07.2026.
+
+Day 1: Introduction to departments, campus tour, ID card distribution
+Day 2: Interaction with faculty mentors, library and lab orientation
+Day 3: Club and committee showcase, cultural welcome event
+
+Reporting time: 9:00 am sharp, Main Auditorium
+Dress code: Formal
+
+Attendance for all three days is mandatory. Parents are welcome to attend the inaugural session on Day 1 only.
+
+Link for Student Query: [Google Form link]
+
+Thanks & Regards
+Devika Rajan
+Dean of Student Affairs
+Extn: 42336011
+
+################################################################################
+EMAIL 22
+Category: Hostel
+Date: 02.06.2026
+From: Imran Sheikh, Chief Warden
+To: All Hostel Applicants, AY 2026-27
+Cc: Hostel Office
+Subject: Hostel Room Allotment List - AY 2026-27
+
+--------------------------------------------------------------------------------
+Dear Students,
+
+The hostel room allotment list for AY 2026-27 has been published on the student portal under "Hostel > Allotment".
+
+Students allotted a room are required to:
+1. Confirm acceptance on the portal by 10.06.2026.
+2. Pay the hostel fee (Rs. 1,25,000 per annum) by 15.06.2026.
+3. Report for check-in between 20.06.2026 and 22.06.2026 with two passport-size photographs and a medical fitness certificate.
+
+Seats not confirmed by the deadline will be allotted to students on the waitlist.
+
+Regards,
+Imran Sheikh
+Chief Warden
+Tel. 022-42336020
+
+################################################################################
+EMAIL 23
+Category: Compliance / Anti-Ragging
+Date: 05.07.2026
+From: Priyanka Oberoi, Anti-Ragging Committee
+To: B.Tech 2026-30 (All Branches)
+Cc: Dean of Student Affairs
+Subject: Mandatory submission of Anti-Ragging Affidavit
+
+--------------------------------------------------------------------------------
+Dear Students,
+
+As per UGC regulations, every student is required to submit an Anti-Ragging Affidavit before the commencement of classes.
+
+Steps:
+1. Visit the UGC Anti-Ragging portal and register using your admission details.
+2. Download the generated affidavit.
+3. Upload the signed copy on the student portal under "Compliance > Anti-Ragging" by 25.07.2026.
+
+Students who fail to submit the affidavit will not be permitted to attend classes or access hostel/library facilities.
+
+Link for Student Query: [Google Form link]
+
+Thanks & Regards
+Priyanka Oberoi
+Anti-Ragging Committee
+Extn: 42336015
+
+################################################################################
+EMAIL 24
+Category: Convocation
+Date: 15.09.2026
+From: Nitin Khosla, Controller of Examinations
+To: Batch 2022-26 (Graduating Students)
+Cc: Alumni Relations Office
+Subject: Convocation Ceremony - Gown Collection and Final Confirmation
+
+--------------------------------------------------------------------------------
+Dear Students,
+
+The Convocation Ceremony for Batch 2022-26 is scheduled for Saturday, 10.10.2026 at the Main Campus Ground.
+
+Students attending must:
+1. Confirm attendance on the portal by 25.09.2026.
+2. Collect the convocation gown and cap from the Examination Office between 01.10.2026 and 05.10.2026 (11:00 am - 4:00 pm) against a refundable deposit of Rs. 1,000.
+3. Carry a valid ID card and the convocation invite (emailed separately) on the day of the ceremony.
+
+Students unable to attend in person may opt for in-absentia convocation by filling the relevant form.
+
+Regards,
+Nitin Khosla
+Controller of Examinations
+Extn: 42336033
+
+################################################################################
+EMAIL 25
+Category: Cultural Fest
+Date: 12.01.2027
+From: Farah Contractor, Cultural Committee Secretary
+To: All Students
+Cc: Prof. Siddharth Menon (Faculty Advisor)
+Subject: Call for Volunteers - Annual Cultural Fest "Resonance 2027"
+
+--------------------------------------------------------------------------------
+Dear Students,
+
+The Cultural Committee is inviting volunteers for the Annual Cultural Fest "Resonance 2027", to be held from 20.02.2027 to 22.02.2027.
+
+Volunteer roles available: Stage Management, Registrations, Hospitality, Social Media, Logistics
+
+Interested students may fill the volunteer form by 25.01.2027. Selected volunteers will receive a participation certificate and duty leave for event days.
+
+Register here: [Form link]
+
+Regards,
+Farah Contractor
+Cultural Committee Secretary
+
+################################################################################
+EMAIL 26
+Category: Health / Community Service
+Date: 08.08.2026
+From: Dr. Arvind Nair, Medical Officer
+To: All Students and Staff
+Cc: Student Welfare Office
+Subject: Blood Donation Camp - 15.08.2026
+
+--------------------------------------------------------------------------------
+Dear All,
+
+In observance of Independence Day, the institute is organizing a Blood Donation Camp in collaboration with City General Hospital on Saturday, 15.08.2026, from 10:00 am to 3:00 pm at the Sports Complex.
+
+Eligibility: Age 18-65, weight above 50 kg, no major illness in the last 3 months.
+
+Donors will receive a certificate and refreshments. Please carry your ID card for registration.
+
+Regards,
+Dr. Arvind Nair
+Medical Officer
+Health Centre
+
+################################################################################
+EMAIL 27
+Category: Sports
+Date: 22.09.2026
+From: Kavya Reddy, Sports Committee
+To: All Students interested in Athletics
+Cc: Physical Education Department
+Subject: Trials for Inter-College Athletics Meet 2026
+
+--------------------------------------------------------------------------------
+Dear Students,
+
+Trials for selecting the institute's Athletics team for the Inter-College Meet will be held on 29.09.2026 and 30.09.2026 at the Sports Ground, 4:00 pm onwards.
+
+Events: 100m, 200m, 400m, 800m, Long Jump, Shot Put, Relay (4x100m)
+
+Students interested must report with sports attire and a valid medical fitness declaration. Selected students will be exempted from regular classes on match days with prior approval from the Academic Coordinator.
+
+Regards,
+Kavya Reddy
+Sports Committee
+
+################################################################################
+EMAIL 28
+Category: Examination / Backlog
+Date: 18.11.2026
+From: Omkar Bhosale, Exam Coordinator
+To: Students with Backlog Subjects, Semester I-VI
+Cc: Exam Dept.
+Subject: Re-registration for Backlog Subjects - Winter Examination 2026
+
+--------------------------------------------------------------------------------
+Dear Students,
+
+Students with backlog subjects from Semester I to VI who wish to appear for the Winter Examination 2026 must complete re-registration on the portal between 20.11.2026 and 27.11.2026.
+
+Examination fee: Rs. 800 per subject (Theory), Rs. 600 per subject (Practical)
+Late fee (28.11.2026 - 30.11.2026): Additional Rs. 300 per subject
+No registrations will be accepted after 30.11.2026.
+
+Students are advised to verify their backlog list on the portal before registering, and to report discrepancies, if any, to the Exam Department by 19.11.2026.
+
+Regards,
+Omkar Bhosale
+Exam Coordinator
+Exam Dept.
+Tel. 022-42336040
+
+################################################################################
+EMAIL 29
+Category: Examination / Internal Assessment
+Date: 10.03.2027
+From: Tanvi Shroff, Academic Coordinator
+To: B.Tech IT 2024-28; B.Tech Comp 2024-28
+Cc: Respective Subject Faculty
+Subject: Display of Internal Assessment Marks - Semester VI
+
+--------------------------------------------------------------------------------
+Dear Students,
+
+The Internal Assessment marks for Semester VI have been uploaded on the student portal.
+
+Students who wish to raise a discrepancy must do so through the online grievance form by 15.03.2027. Requests after this date will not be considered. Discrepancies will be verified against the original evaluated scripts in the presence of the concerned faculty.
+
+Link for Student Query: [Google Form link]
+
+Thanks & Regards
+Tanvi Shroff
+Academic Coordinator
+Extn: 42336072
+
+################################################################################
+EMAIL 30
+Category: IT / Network Notice
+Date: 14.02.2027
+From: Rajesh Iyengar, IT Services
+To: All Students and Faculty
+Cc: None
+Subject: Scheduled Wi-Fi Network Maintenance - 16.02.2027
+
+--------------------------------------------------------------------------------
+Dear All,
+
+Please note that campus Wi-Fi services will be unavailable on Sunday, 16.02.2027, from 1:00 am to 6:00 am due to scheduled network maintenance and equipment upgrade.
+
+Wired LAN connections in the library and computer labs will not be affected. We apologize for any inconvenience and appreciate your understanding.
+
+For urgent IT support, write to itsupport@example.edu.
+
+Regards,
+Rajesh Iyengar
+IT Services
+
+################################################################################
+EMAIL 31
+Category: International Programs
+Date: 01.09.2026
+From: Anjali Deshmukh, International Relations Office
+To: B.Tech 2023-27 (Semester VII eligible students)
+Cc: Respective HODs
+Subject: Applications open - Student Exchange Program, Fall 2027
+
+--------------------------------------------------------------------------------
+Dear Students,
+
+Applications are now open for the Student Exchange Program with partner universities for Fall Semester 2027.
+
+Eligibility: Minimum CGPA of 7.5, no active backlog, completion of Semester VI by the time of exchange
+
+Participating universities and available seats are listed in the attached document (file name: Exchange_Partners_2027.pdf).
+
+Interested students must submit the application along with a Statement of Purpose and two faculty recommendation letters by 30.09.2026.
+
+Application form: [Form link]
+
+Regards,
+Anjali Deshmukh
+International Relations Office
+Extn: 42336055
+
+################################################################################
+EMAIL 32
+Category: Campus Facilities
+Date: 05.01.2027
+From: Rohan Malhotra, Administrative Officer
+To: All Students with Two-Wheelers/Four-Wheelers
+Cc: Security Office
+Subject: Revised Campus Parking Policy w.e.f. 10.01.2027
+
+--------------------------------------------------------------------------------
+Dear Students,
+
+With effect from 10.01.2027, the following parking policy will be enforced on campus:
+
+1. All vehicles must display a valid parking sticker, obtainable from the Security Office against the vehicle RC and student ID card.
+2. Two-wheeler parking: Zone B only. Four-wheeler parking: Zone D only.
+3. Vehicles parked without a valid sticker or in unauthorized zones will be clamped and a fine of Rs. 500 will be levied.
+
+Students are requested to apply for parking stickers before the effective date to avoid inconvenience.
+
+Regards,
+Rohan Malhotra
+Administrative Officer
+Extn: 42336028
+
+################################################################################
+EMAIL 33
+Category: NSS / Community Service
+Date: 18.05.2026
+From: Meenal Joshi, NSS Program Officer
+To: All Students interested in NSS activities
+Cc: Dean of Student Affairs
+Subject: Registrations open - NSS Special Camp, June 2026
+
+--------------------------------------------------------------------------------
+Dear Students,
+
+The National Service Scheme (NSS) unit is organizing a seven-day Special Camp at a nearby rural village from 15.06.2026 to 21.06.2026, focused on sanitation awareness and digital literacy drives.
+
+Eligibility: Enrolled NSS volunteers with a minimum of 60 hours of prior service
+
+Students interested must register by 25.05.2026. Boarding, lodging and local transport will be arranged by the institute. A certificate of participation and NSS credit hours will be awarded on completion.
+
+Register here: [Form link]
+
+Regards,
+Meenal Joshi
+NSS Program Officer
+
+################################################################################
+EMAIL 34
+Category: Alumni Relations
+Date: 20.12.2026
+From: Suresh Gokhale, Alumni Relations Cell
+To: All Final Year Students, Batch 2023-27
+Cc: Placement Cell
+Subject: Alumni Interaction Meet - "Career Conversations" - 10.01.2027
+
+--------------------------------------------------------------------------------
+Dear Students,
+
+The Alumni Relations Cell is organizing "Career Conversations", an interactive session with alumni working across various industries, on Friday, 10.01.2027, from 3:00 pm to 6:00 pm in the Seminar Hall.
+
+The session will cover career planning, interview preparation, and industry expectations, followed by an open networking segment.
+
+Seats are limited to 150 students on a first-come, first-served basis. Attendance will count toward co-curricular credit points.
+
+Register here: [Form link]
+
+Regards,
+Suresh Gokhale
+Alumni Relations Cell
+Extn: 42336061
+
+################################################################################
+EMAIL 35
+Category: Academics / Electives
+Date: 25.06.2026
+From: Neeta Agarwal, Academic Coordinator
+To: B.Tech 2024-28 (All Branches), Semester V
+Cc: Respective HODs
+Subject: Change of Elective Subject - Window closes 30.06.2026
+
+--------------------------------------------------------------------------------
+Dear Students,
+
+This is to inform students who wish to change their elective subject for Semester V that the change-of-elective window will remain open until Tuesday, 30.06.2026, 5:00 pm.
+
+Requests must be submitted through the portal under "Academics > Elective Change" and are subject to seat availability in the requested elective. No requests will be entertained after the deadline or once classes commence.
+
+Link for Student Query: [Google Form link]
+
+Thanks & Regards
+Neeta Agarwal
+Academic Coordinator
+Extn: 42336073
+
+################################################################################
+EMAIL 36
+Category: Research
+Date: 03.04.2026
+From: Dr. Karthik Subramaniam, Dean - Research & Innovation
+To: All UG and PG Students
+Cc: Respective HODs
+Subject: Student Research Publication Incentive Scheme - Applications Open
+
+--------------------------------------------------------------------------------
+Dear Students,
+
+The institute invites applications under the Student Research Publication Incentive Scheme for papers accepted or published in UGC-recognized/Scopus-indexed journals and conferences during AY 2025-26.
+
+Incentive: Up to Rs. 10,000 per paper (co-authored papers will be divided equally among student authors)
+
+Students must submit the acceptance/publication proof along with the application form, countersigned by the faculty guide, to the Research Office by 30.04.2026.
+
+Application form: [Form link]
+
+Regards,
+Dr. Karthik Subramaniam
+Dean - Research & Innovation
+Extn: 42336090
+
+################################################################################
+EMAIL 37
+Category: Mentorship
+Date: 14.08.2026
+From: Ritu Chawla, Academic Coordinator
+To: B.Tech 2025-29, Semester II
+Cc: Respective Faculty Mentors
+Subject: Mentor-Mentee Meeting Schedule - August 2026
+
+--------------------------------------------------------------------------------
+Dear Students,
+
+As per the institute's mentorship policy, the first Mentor-Mentee meeting for Semester II students is scheduled for the week of 24.08.2026 to 28.08.2026.
+
+Students are requested to check their allotted mentor's name and the meeting slot on the portal under "Mentorship > Schedule" and carry their academic record for the discussion.
+
+Attendance at the mentor-mentee meeting is mandatory and will be recorded.
+
+Thanks & Regards
+Ritu Chawla
+Academic Coordinator
+Extn: 42336076
+
+################################################################################
+EMAIL 38
+Category: Convocation / Documents
+Date: 05.09.2026
+From: Vivek Thakur, Registrar Office
+To: Batch 2022-26 (Graduating Students)
+Cc: Controller of Examinations
+Subject: Submission of Original Documents for Degree Certificate Processing
+
+--------------------------------------------------------------------------------
+Dear Students,
+
+Students of Batch 2022-26 are required to submit the following original documents to the Registrar Office for degree certificate processing before 20.09.2026:
+
+1. Provisional degree certificate request form (attached)
+2. Migration certificate application (if applicable)
+3. No-dues certificate from Library, Hostel, Accounts and respective Department
+4. Two passport-size photographs
+
+Degree certificates will not be processed for students with pending dues or incomplete documentation.
+
+Regards,
+Vivek Thakur
+Registrar Office
+Extn: 42336008
+
+################################################################################
+EMAIL 39
+Category: Health Advisory
+Date: 11.07.2026
+From: Dr. Arvind Nair, Medical Officer
+To: All Students and Staff
+Cc: Hostel Office
+Subject: Health Advisory - Seasonal Flu Precautions
+
+--------------------------------------------------------------------------------
+Dear All,
+
+With the onset of the monsoon season, a rise in seasonal flu and viral fever cases has been observed in the region. Students are advised to:
+
+1. Avoid consuming street food and ensure drinking water is boiled or filtered.
+2. Report to the Health Centre immediately in case of fever, cough or body ache lasting more than a day.
+3. Avoid water logging areas on campus and maintain hand hygiene.
+
+The Health Centre will remain open from 8:00 am to 8:00 pm during this period for consultation. Students residing in the hostel showing symptoms should inform the hostel warden promptly.
+
+Regards,
+Dr. Arvind Nair
+Medical Officer
+Health Centre
+
+################################################################################
+EMAIL 40
+Category: Examination
+Date: 28.10.2026
+From: Omkar Bhosale, Exam Coordinator
+To: B.Tech 2024-28 (All Branches), Semester V
+Cc: Exam Dept.
+Subject: End-Semester Examination Hall Ticket Download - Instructions
+
+--------------------------------------------------------------------------------
+Dear Students,
+
+Hall tickets for the End-Semester Examination, Semester V, are now available for download on the student portal under "Examinations > Hall Ticket".
+
+Students are requested to:
+1. Download and take a printout of the hall ticket before 05.11.2026.
+2. Verify the subject codes, exam dates and seat number listed, and report any discrepancy to the Exam Department immediately.
+3. Carry the printed hall ticket along with the college ID card to every examination. Entry will not be permitted without both documents.
+
+Hall tickets will not be issued at the examination centre on the day of the exam.
+
+Regards,
+Omkar Bhosale
+Exam Coordinator
+Exam Dept.
+Tel. 022-42336040
+
+################################################################################
+END OF PART 2

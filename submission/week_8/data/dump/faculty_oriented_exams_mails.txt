@@ -1,0 +1,347 @@
+FACULTY-ORIENTED EXAMINATION EMAILS
+Adapted from exams_mails_2.txt using the tone and structure of placement_faculty_mails.txt.
+Note: These are drafted faculty-facing adaptations, not original institutional emails. Dates, links, deadlines, and procedures from the source student notices have been retained where available. Where the source did not specify a faculty action or deadline, the draft asks faculty to circulate or review information without inventing one.
+
+31.
+Subject: Faculty Coordination: M1 Test Schedule – Data Science, B.Tech & MBA Tech DS, Sem IV/VI
+
+Dear Faculty Members,
+
+Please find attached the following documents for the M1 Test for B.Tech & MBA Tech–DS, Sem IV/VI:
+
+1. OE3 & OE4 Test schedule
+2. OE3 & OE4 batch details
+3. M1 test schedule – regular subjects
+4. Batch details – regular subjects
+
+Kindly review the schedules and share the relevant information with the students in your respective divisions. Please note that the SSDI test schedule will be communicated separately by Siba sir.
+
+Student Query Link:
+https://docs.google.com/forms/d/e/1FAIpQLScy8Y2rX6GEHHT_tnHHtXFPsYXjRjJgHbjL30HWOUEVw9vFvA/viewform?usp=pp_url
+
+Student Information Handout AY 2024-25:
+https://svkmmumbai-my.sharepoint.com/:f:/g/personal/kasturi_shirodkar_nmims_edu/EjR5oh-n2v5Lv26gapJUOIYBu_aiGoj0XP93dSAfm0hn7w?e=D4G4Vi
+
+Thanks & Regards,
+KASTURI SHIRODKAR
+Co-ordinator – Academics-Admin
+Contact – 022 42334027
+
+32.
+Subject: Faculty Coordination: Revised MPSTME Odd Semester Re-Examination Time Table 2024-25
+
+Dear Faculty Members,
+
+The revised MPSTME odd-semester re-examination timetable for B.Tech, MBA Tech, B.Tech (Integrated), MCA, and M.Tech programmes is attached.
+
+Kindly review the revised timetable and ensure that the relevant information is communicated to students in your respective programmes. The timetable will also be available on the Student Portal and University website for reference.
+
+Eligible students must apply for re-examinations through the SAP Student Portal using the online payment facility.
+
+SAP Student Portal:
+https://sdcsppscs.svkm.ac.in:44300/irj/portal
+
+User ID: Student Registration Number
+Password: init@123 (initial password)
+
+Application period:
+Start date: 31 January 2025
+End date: 2 February 2025
+
+For technical issues, students may use ‘Get Support’ on the portal login page or email sapbasis@svkm.ac.in. Only students who apply and pay within the prescribed timeline will be permitted to appear. They must bring the acknowledgement receipt to each examination. No applications will be accepted after 2 February 2025 (after 4:00 PM).
+
+Regards,
+Examination Department
+
+33.
+Subject: Faculty Circulation: Revised Re-Examination Time Table
+
+Dear Faculty Members,
+
+Please find attached the revised re-examination timetable for B.Tech, MBA Tech, B.Tech (Integrated), MCA, and M.Tech programmes.
+
+Kindly circulate the revised timetable to the relevant students and ask them to refer to the attached schedule for the latest details.
+
+Regards,
+Examination Department
+
+34.
+Subject: Faculty Coordination: MPSTME Odd Semester Re-Examination Time Table 2024-25
+
+Dear Faculty Members,
+
+The MPSTME odd-semester re-examination timetable for B.Tech, MBA Tech, B.Tech (Integrated), MCA, and M.Tech programmes is attached. The timetable will also be uploaded to the Student Portal and University website for reference.
+
+Please remind eligible students to apply through the SAP Student Portal using the online payment facility.
+
+SAP Student Portal:
+https://sdcsppscs.svkm.ac.in:44300/irj/portal
+
+User ID: Student Registration Number
+Password: init@123 (initial password)
+
+Application period:
+Start date: 31 January 2025
+End date: 2 February 2025
+
+For technical issues, students may select ‘Get Support’ on the portal login page or email sapbasis@svkm.ac.in. Students must complete the application and payment within the deadline and retain the acknowledgement receipt for each examination. No applications will be accepted after 2 February 2025 (after 4:00 PM).
+
+Regards,
+Examination Department
+
+35.
+Subject: Faculty Coordination: MPSTME Odd Semester Final and Regular Re-Examination Time Table 2024
+
+Dear Faculty Members,
+
+The MPSTME odd-semester final and regular re-examination timetable for B.Tech, MBA Tech, B.Tech Integrated, MCA, and M.Tech programmes is attached. Examinations are scheduled for November/December 2024. Timetables are also available on the Student Portal and University website for reference.
+
+Kindly communicate the application procedure and deadlines to eligible students.
+
+SAP Student Portal:
+https://sdc-sppap1.svkm.ac.in:50001/irj/portal
+
+Login ID: Student Registration Number
+Password: Init@123
+
+Application period:
+Start date: 14 October 2024
+End date: 16 October 2024 (closing time 16:00 hrs)
+
+For technical issues, students may use ‘Get Support’ on the portal login page or email sapbasis@svkm.ac.in. Students who apply and pay within the prescribed timeline will be allowed to appear and should bring the acknowledgement receipt to each examination. No applications will be accepted after 16 October 2024 (after 4:00 PM).
+
+Regards,
+NMIMS Examination Department
+
+36.
+Subject: Faculty Coordination: M2 Test Schedule – Data Science, B.Tech & MBA Tech DS, Sem IV/VI
+
+Dear Faculty Members,
+
+Please find attached the M2 test schedule for B.Tech & MBA Tech–DS, Sem IV/VI, including:
+
+1. M2 test schedule – regular subjects
+2. OE3 & OE4 test schedule
+
+Kindly review the schedules and share the relevant details with students in your respective divisions. Test venue and remaining details will be communicated separately.
+
+Student Query Link:
+https://docs.google.com/forms/d/e/1FAIpQLScy8Y2rX6GEHHT_tnHHtXFPsYXjRjJgHbjL30HWOUEVw9vFvA/viewform?usp=pp_url
+
+Student Information Handout AY 2024-25:
+https://svkmmumbai-my.sharepoint.com/:f:/g/personal/kasturi_shirodkar_nmims_edu/EjR5oh-n2v5Lv26gapJUOIYBu_aiGoj0XP93dSAfm0hn7w?e=D4G4Vi
+
+Thanks & Regards,
+KASTURI SHIRODKAR
+Co-ordinator – Academics-Admin
+Contact – 022 42334027
+
+37.
+Subject: Faculty Coordination: Re-Examination Seating Plan – 24 and 25 February 2025
+
+Dear Faculty Members,
+
+Please find attached the seating plan and examination instructions for the re-examinations scheduled on 24 and 25 February 2025, for both morning and afternoon sessions.
+
+The seating plan will be displayed on the Student Portal and at the main entrance of the venue (MPSTME New Building – Phase II). Kindly direct students with seating-related queries to the MPSTME Exam Department, Ground Floor, Exam 1, MPSTME New Building, half an hour before the examination begins.
+
+Regards,
+Examination Department
+
+38.
+Subject: Faculty Coordination: Final and Re-Examination Seating Plan – 11 to 14 December 2024
+
+Dear Faculty Members,
+
+Please find attached the seating plan for the final and re-examinations scheduled from 11 to 14 December 2024.
+
+The seating plan will be displayed at the main entrance of the venue (MPSTME New Building – Phase II) and on the notice boards on the examination floors. Kindly remind students to check the main entrance notice board daily for classroom changes.
+
+For seating-related queries, students should approach Room TR 401, 4th Floor, MPSTME New Building, half an hour before the examination begins.
+
+Regards,
+Examination Department
+
+39.
+Subject: Faculty Coordination: MPSTME Odd Semester Final and Regular Re-Examination Time Table 2024
+
+Dear Faculty Members,
+
+The MPSTME odd-semester final and regular re-examination timetable for B.Tech, MBA Tech, B.Tech Integrated, MCA, and M.Tech programmes is attached. Examinations are scheduled for November/December 2024. Timetables are also available on the Student Portal and University website for reference.
+
+Kindly communicate the application procedure and deadlines to eligible students.
+
+SAP Student Portal:
+https://sdc-sppap1.svkm.ac.in:50001/irj/portal
+
+Login ID: Student Registration Number
+Password: Init@123
+
+Application period:
+Start date: 14 October 2024
+End date: 16 October 2024 (closing time 16:00 hrs)
+
+For technical issues, students may use ‘Get Support’ on the portal login page or email sapbasis@svkm.ac.in. Students must apply and pay within the prescribed timeline and bring the acknowledgement receipt to each examination. No applications will be accepted after 16 October 2024 (after 4:00 PM).
+
+Regards,
+NMIMS Examination Department
+
+40.
+Subject: Faculty Coordination: Class Test II (M2) Schedule – B.Tech & MBA Tech DS, Sem III/V/VII
+
+Dear Faculty Members,
+
+Please find attached the Class Test II (M2) schedule for B.Tech and MBA Tech–DS, Semesters III, V, and VII.
+
+Kindly review the schedule and communicate the relevant details to students in your respective divisions.
+
+Student Query Link:
+https://docs.google.com/forms/d/e/1FAIpQLScy8Y2rX6GEHHT_tnHHtXFPsYXjRjJgHbjL30HWOUEVw9vFvA/viewform?usp=pp_url
+
+Student Information Handout AY 2024-25:
+https://svkmmumbai-my.sharepoint.com/:f:/g/personal/kasturi_shirodkar_nmims_edu/EjR5oh-n2v5Lv26gapJUOIYBu_aiGoj0XP93dSAfm0hn7w?e=D4G4Vi
+
+Thanks & Regards,
+KASTURI SHIRODKAR
+Co-ordinator – Academics-Admin
+Contact – 022 42334027
+
+41.
+Subject: Faculty Coordination: June/July 2024 Even Semester Re-Examination Results
+
+Dear Faculty Members,
+
+Please find attached the user manual for the Photocopy URL and Re-valuation process through the NMIMS Grievance Redressal online application.
+
+The General Register (GR) dates for re-examination are indicated in the attached communication. Kindly bring the stated deadline to the attention of relevant students.
+
+Please note that requests, applications, or offline forms for revaluation will not be accepted after the due date. Results for students with Unfair Means (UFM) cases have been kept on hold pending receipt of the penalty.
+
+Student Query Link:
+https://docs.google.com/forms/d/e/1FAIpQLScy8Y2rX6GEHHT_tnHHtXFPsYXjRjJgHbjL30HWOUEVw9vFvA/viewform?usp=pp_url
+
+Student Information Handout AY 2024-25:
+https://svkmmumbai-my.sharepoint.com/:f:/g/personal/kasturi_shirodkar_nmims_edu/EjR5oh-n2v5Lv26gapJUOIYBu_aiGoj0XP93dSAfm0hn7w?e=D4G4Vi
+
+Thanks & Regards,
+Kasturi Shirodkar
+Co-ordinator (Extn. -022 42334027)
+
+42.
+Subject: Faculty Coordination: Seating Plan – Re-Examination, 3 July 2024
+
+Dear Faculty Members,
+
+Please find attached the seating plan for the re-examination scheduled on 3 July 2024.
+
+The seating plan will be displayed on the Student Portal and at the main entrance of the venue (MPSTME New Building – Phase II). Kindly direct students with seating-related queries to Room TR 501, 5th Floor, MPSTME New Building, half an hour before the examination begins.
+
+Regards,
+Alpa Chougule
+Exam Coordinator
+MPSTME
+
+43.
+Subject: Faculty Coordination: Seating Plan – Re-Examination, 4 July 2024
+
+Dear Faculty Members,
+
+Please find attached the seating plan for the re-examination scheduled on 4 July 2024.
+
+The seating plan will be displayed on the Student Portal and at the main entrance of the venue (MPSTME New Building – Phase II). Kindly direct students with seating-related queries to Room TR 501, 5th Floor, MPSTME New Building, half an hour before the examination begins.
+
+Regards,
+Alpa Chougule
+Exam Coordinator
+MPSTME
+
+44.
+Subject: Faculty Coordination: Even Semester June Re-Examination Seating Plan – 25 June 2024
+
+Dear Faculty Members,
+
+Please find attached the seating plan for the 25 June 2024 re-examinations, covering the morning and afternoon sessions, along with the Impact of Unfair Means and Student Instruction sheet.
+
+Kindly review the attached documents and direct students to the relevant instructions as required.
+
+Regards,
+Alpa Chougule
+Exam Coordinator
+MPSTME
+
+45.
+Subject: Faculty Coordination: ICA Marks on Portal – Term I (2024-25)
+
+Dear Faculty Members,
+
+The ICA marks for all subjects for the current academic year will be published on the Student Portal, and students will receive a system-generated email notification.
+
+Kindly remind students to review their marks and raise any discrepancies on the portal within two days of publication. Queries submitted after the two-day window will not be considered.
+
+Student Query Link:
+https://docs.google.com/forms/d/e/1FAIpQLScy8Y2rX6GEHHT_tnHHtXFPsYXjRjJgHbjL30HWOUEVw9vFvA/viewform?usp=pp_url
+
+Student Information Handout AY 2024-25:
+https://svkmmumbai-my.sharepoint.com/:f:/g/personal/kasturi_shirodkar_nmims_edu/EjR5oh-n2v5Lv26gapJUOIYBu_aiGoj0XP93dSAfm0hn7w?e=D4G4Vi
+
+Thanks & Regards,
+KASTURI SHIRODKAR
+Co-ordinator – Academics-Admin
+Contact – 022 42334027
+
+46.
+Subject: Faculty Coordination: FAQ Meeting for First-Year Calculus Re-Examination – 11 February 2025
+
+Dear Faculty Members,
+
+Please note that an online meeting for first-year students appearing for the Calculus re-examination was scheduled for 3:00 PM on 11 February 2025 to address frequently asked questions.
+
+Meeting Link:
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjBhYWE5YjEtZTFjZS00NzY2LWJmZGUtODcyMDkwZTNmZmUx%40thread.v2/0?context=%7b%22Tid%22%3a%22d1f14348-f1b5-4a09-ac99-7ebf213cbc81%22%2c%22Oid%22%3a%2228c443f5-5257-4424-a0eb-73216f19a865%22%7d
+
+Meeting ID: 479 492 157 984
+Passcode: XT2e9ag2
+
+Student Information Handout AY 2024-25:
+https://svkmmumbai-my.sharepoint.com/:f:/g/personal/deena_jadhav_nmims_edu/Ei_jzW4fqdNFo-FyX-IlqBoB1qGz1gBZziW51ru_ugSEFw?e=LHHOjv
+
+Regards,
+Dr. V. R. Lakshmi Gorty
+Professor in Mathematics
+SVKM’s NMIMS, MPSTME
+
+47.
+Subject: Faculty Coordination: Physics Re-Examination FAQs and Student Meeting
+
+Dear Faculty Members,
+
+Please find attached the FAQs for students appearing for the Physics re-examination.
+
+An offline meeting was scheduled for Wednesday, 12 February 2025, at 3:30 PM in classroom CR 106. Students were instructed to read the FAQs before attending.
+
+Kindly share the information with relevant students and direct them to review the attached FAQs.
+
+Regards,
+Dr. Arti Hadap
+
+Thanks and Regards,
+Krupa Kadam
+Coordinator, MBA Tech 1st Year
+Ph: +9122-42334000 / Extn. 42334072
+
+48.
+Subject: Faculty Coordination: Follow-Up on Physics Re-Examination Information
+
+Dear Faculty Members,
+
+Please find the trailing email and attachment regarding the Physics re-examination for your information and necessary action.
+
+Student Query Link:
+https://docs.google.com/forms/d/e/1FAIpQLScy8Y2rX6GEHHT_tnHHtXFPsYXjRjJgHbjL30HWOUEVw9vFvA/viewform?usp=pp_url
+
+Student Information Handout AY 2024-25:
+Student Information Handout A.Y. 2024-25
+
+Thanks & Regards,
+Kasturi Shirodkar
+Co-ordinator (Extn. -022 42334027)

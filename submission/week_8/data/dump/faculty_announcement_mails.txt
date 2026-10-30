@@ -1,0 +1,568 @@
+1.
+
+Subject: Announcement: MPSTME Odd Semester End-Term Examination Timetable A.Y. 2026-27
+
+Content: Dear Faculty Members,
+
+The Odd Semester End-Term Examination timetable for A.Y. 2026-27 has been prepared and is available for your reference through the official university portal.
+
+All faculty members are requested to review the timetable carefully, particularly the examination dates, course codes, subject names, and any examination-related responsibilities assigned to them. Course coordinators should verify that the details pertaining to their respective courses are accurate and report any discrepancy to the Examination Department at the earliest.
+
+Faculty members assigned examination duties are requested to note their reporting time and venue and make the necessary arrangements to ensure the smooth and fair conduct of examinations. Any unavoidable scheduling conflict should be brought to the notice of the concerned authority through the prescribed channel.
+
+To view the announcement and any attached files, kindly log in to the university portal:
+https://portal.svkm.ac.in/usermgmt/login
+
+Please treat this communication as important and ensure that the relevant information is shared with the concerned course teams where required.
+
+Regards,
+
+Office of the Examination Department
+MPSTME
+
+
+2.
+
+Subject: Call for Faculty Mentors: IUCEE Student Chapter Innovation and Sustainability Competition
+
+Content: Dear Faculty Members,
+
+Greetings!
+
+The IUCEE Student Chapter is inviting project proposals for its innovation and sustainability competition. The initiative aims to encourage interdisciplinary collaboration and support student teams working on practical solutions aligned with the United Nations Sustainable Development Goals (SDGs).
+
+Faculty members are encouraged to mentor interested student teams and guide them in developing clear problem statements, feasible solution approaches, and well-structured project proposals. Teams may include students from different engineering disciplines, and interdisciplinary participation is particularly encouraged. Proposals that demonstrate a strong understanding of the problem and include a working proof of concept may receive preference during shortlisting.
+
+Key points for faculty mentors:
+
+• Each team may include up to five students and one faculty mentor.
+• Teams should satisfy the year-of-study and interdisciplinary requirements specified in the competition circular.
+• Proposed projects should address one or more of the eligible SDG targets listed in the attached annexure.
+• The proposal should describe the problem, proposed solution, implementation approach, expected impact, and feasibility of developing a demonstrable prototype.
+• The final submission deadline and selection timeline are provided in the official circular.
+
+Faculty members who wish to mentor a team are requested to discuss the scope of the project with the students early and ensure that the proposal is reviewed before submission. Please direct students to the official participation form and attached guidelines for complete details.
+
+We look forward to your support in nurturing innovative, responsible, and impactful student projects.
+
+Best regards,
+
+Faculty In-Charge
+IUCEE Student Chapter
+NMIMS MPSTME
+
+
+3.
+
+Subject: Revised Computer-Based Re-Examination Timetable – Even Semester A.Y. 2025-26
+
+Content: Dear Faculty Members,
+
+Please note that the Computer-Based Re-Examination timetable for the Even Semester A.Y. 2025-26 has been revised. The updated timetable is available on the university portal, along with the relevant instructions for the conduct of examinations.
+
+All course coordinators are requested to verify the revised dates and timings for their respective courses and communicate any discrepancy to the Examination Department immediately. Faculty members assigned as examiners, invigilators, or technical support personnel should review their responsibilities and report to the designated venue at the time specified in the schedule.
+
+Kindly ensure that examination papers, question banks, assessment settings, and other required materials are submitted or verified within the stipulated timelines, wherever applicable. Faculty members should also remind students to check the revised timetable through the official channel and not rely on earlier versions of the schedule.
+
+To view the attached timetable and instructions, please log in to:
+https://portal.svkm.ac.in/usermgmt/login
+
+Your cooperation is appreciated in ensuring that the re-examinations are conducted smoothly and without administrative delays.
+
+Regards,
+
+Examination Department
+MPSTME
+
+
+4.
+
+Subject: Faculty Development Programme on Emerging AI Tools for Teaching and Research
+
+Content: Dear Faculty Members,
+
+The Faculty Development Cell is pleased to announce a professional development programme focused on the effective use of emerging Artificial Intelligence tools in teaching, learning, and research.
+
+The programme will include discussions on responsible AI use in academic settings, AI-assisted preparation of teaching material, research discovery and literature review workflows, evaluation of AI-generated outputs, and considerations relating to academic integrity, privacy, and attribution. The session will also include practical demonstrations and an opportunity for participants to exchange experiences and classroom use cases.
+
+Programme details:
+
+Date: As mentioned in the attached circular
+Time: As mentioned in the attached circular
+Venue/Mode: To be confirmed in the official programme notice
+Registration: Please refer to the registration instructions circulated by the Faculty Development Cell
+
+Interested faculty members are requested to review the attached programme outline and complete the registration process within the stated deadline. Heads of Departments are requested to circulate this announcement among their faculty teams and encourage participation, subject to teaching and examination commitments.
+
+Participants are encouraged to bring examples of academic tasks or research workflows for discussion. The programme is intended to support informed, ethical, and effective integration of AI tools rather than replace academic judgement or subject expertise.
+
+We look forward to your participation.
+
+Regards,
+
+Faculty Development Cell
+NMIMS MPSTME
+
+
+5.
+
+Subject: Request to Circulate Industry Hackathon Opportunity to Eligible Students – Batch 2027 and 2028
+
+Content: Dear Faculty Members,
+
+An industry-led online hackathon has been announced for eligible engineering students from the graduating batches specified in the attached circular. The event is designed to assess participants' aptitude, programming fundamentals, logical reasoning, and ability to solve practical technology problems through multiple rounds.
+
+Faculty members teaching the relevant programmes are requested to share the opportunity with eligible students and encourage interested candidates to review the official eligibility conditions before registering. Participation is individual unless explicitly stated otherwise by the organizers. Students must complete their own registration and should carefully read the rules regarding permitted resources, assessment conduct, and disqualification for unfair practices.
+
+The event information includes the following:
+
+• Registration deadline and official registration link
+• Eligibility by programme and graduating year
+• Round-wise assessment format and schedule
+• Instructions for online assessments and coding rounds
+• Recognition, prizes, and possible industry interaction opportunities
+
+Please use the attached organizer communication as the authoritative source for all dates, eligibility requirements, and participation rules. Avoid forwarding an outdated circular or making commitments on behalf of the organizers that are not stated in the official notice.
+
+Course coordinators are requested to circulate the announcement through the appropriate academic channels. Any queries concerning the event should be directed to the organizers using the contact details in the circular.
+
+Thank you for supporting student engagement with industry-led learning opportunities.
+
+Regards,
+
+Corporate Relations and Placements
+MPSTME
+
+
+6.
+
+Subject: The Monthly Edge AI Newsletter – Research Updates, Events and Technical Resources
+
+Content: Dear Faculty Members,
+
+Please find the latest edition of the Edge AI newsletter for your reference. This issue brings together updates on embedded artificial intelligence, edge-device deployment, robotics, sensor-based applications, and developments in efficient machine-learning systems.
+
+The newsletter includes highlights from recent technology events, demonstrations of end-to-end edge AI workflows, technical articles, and information about upcoming webinars and conferences. It also features practical examples that may be useful for faculty members working in computer engineering, electronics, data science, automation, and related interdisciplinary areas.
+
+Faculty members may find the resources useful for identifying potential seminar topics, updating course examples, exploring research collaborations, or introducing students to practical applications beyond cloud-based AI systems. The listed events and external resources are subject to the respective organizers' schedules and terms; please refer to the original event pages for the latest details.
+
+The newsletter and its associated reading material are attached for your convenience. Kindly share relevant articles with research scholars or project teams where appropriate.
+
+We welcome suggestions for future newsletter topics, including research demonstrations, laboratory projects, industry applications, and faculty contributions. Please send your suggestions to the department's designated communication coordinator.
+
+Regards,
+
+Departmental Research and Innovation Team
+MPSTME
+
+
+7.
+
+Subject: Library Newsletter – NMIMS Knowledge Trendsetters, Volume 5, Issue 2
+
+Content: Dear Faculty Members,
+
+Greetings from the Library Team!
+
+We are pleased to share Volume 5, Issue 2 of the quarterly newsletter, “NMIMS Knowledge Trendsetters.” The theme of this edition is “Reading in the Age of Reels: Reviving Deep Reading Habits.”
+
+This issue examines how short-form digital content affects sustained reading and considers practical ways to encourage attentive, reflective engagement with books and scholarly material. It highlights the value of intentional reading habits in academic work and offers suggestions for maintaining focus while navigating a media environment dominated by rapid content consumption.
+
+The newsletter also includes updates on library activities across campuses, guidance on accessing library databases, and information about available academic resources. Faculty members are invited to explore the issue and consider sharing relevant material with students during mentoring sessions, library orientations, or course discussions.
+
+The latest issue is attached and is also available through the Student Portal and University Website for future reference. Please consult the relevant library access guidelines when directing students to subscribed databases or electronic resources.
+
+We welcome feedback and suggestions for future themes and resources that could support teaching, research, and academic reading.
+
+Happy reading!
+
+Thanks and regards,
+
+Team Library
+NMIMS
+
+
+8.
+
+Subject: Library Resource of the Week – Recommended Reading for Faculty
+
+Content: Dear Faculty Members,
+
+The Library Team is pleased to highlight a recommended reading resource for this week: “The Craft of Research.” The book presents a structured approach to developing research questions, evaluating evidence, building an argument, and communicating findings clearly.
+
+The resource may be useful for faculty members guiding undergraduate projects, supervising dissertations, preparing research proposals, or supporting students who are beginning academic writing. Its emphasis on moving from a broad topic to a focused question can also serve as a useful discussion point during research methodology sessions.
+
+Faculty members are encouraged to check the library catalogue for availability and borrowing options. Availability may vary by campus and format. If the title is not currently available at your campus library, please contact the library team to enquire about inter-library access or other available editions.
+
+The Library Team continues to curate resources that support teaching, professional development, and research. Suggestions for future books, journals, or reference materials are welcome and may be shared with the library staff.
+
+We hope this recommendation proves useful in your academic and research activities.
+
+Best regards,
+
+Team Library
+NMIMS
+
+
+9.
+
+Subject: Open Elective Courses – Faculty Coordination and Catalogue Verification for A.Y. 2026-27
+
+Content: Dear Faculty Members and Course Coordinators,
+
+The process of preparing the Open Elective course catalogue for the forthcoming semester is underway. Course coordinators are requested to review the course information submitted by their respective departments before the catalogue is published for students.
+
+Please verify the following details:
+
+1. Course title, course code, and brief description.
+2. Eligibility criteria and any prerequisite knowledge.
+3. Detailed syllabus and intended learning outcomes.
+4. Available seats and any division-wise capacity restrictions.
+5. Faculty allocation and any timetable or laboratory requirements.
+6. Confirmation that the course is suitable for the elective basket in which it is listed.
+
+Please ensure that the information is complete, accurate, and consistent with the approved curriculum. Any proposed correction or change should be sent to the designated academic coordinator within the timeline provided separately. Faculty members should not communicate unapproved changes in eligibility, seat capacity, or course content to students.
+
+Once the catalogue is finalized, faculty mentors and class coordinators may be requested to guide students through the selection process. Students should be advised to read the course descriptions and eligibility conditions carefully and to follow the official portal instructions when submitting preferences.
+
+Thank you for your prompt cooperation in completing this academic exercise.
+
+Regards,
+
+Academic Coordination Office
+MPSTME
+
+
+10.
+
+Subject: Industry Hackathon Announcement – Faculty Support and Student Outreach
+
+Content: Dear Faculty Members,
+
+The Corporate Relations and Placements team has received information about an upcoming industry hackathon intended for engineering students. The competition offers participants an opportunity to apply their problem-solving and programming skills to industry-relevant challenges and interact with professionals from the technology sector.
+
+Faculty members are requested to bring this opportunity to the attention of eligible students in their classes, laboratories, and project groups. Please encourage students to read the full circular before applying, as eligibility may depend on programme, graduation year, and the assessment requirements specified by the organizers.
+
+The event may include aptitude screening, technical assessments, coding rounds, and a final presentation or demonstration. Participants should register through the official link, observe the stated deadlines, and comply with all rules on individual participation and acceptable assistance. Faculty members should not share assessment questions or provide unauthorized help during any live evaluation.
+
+The attached circular contains the registration instructions, round-wise schedule, eligibility criteria, and details of recognition or awards. In case of any change announced by the organizers, the latest official communication should take precedence over forwarded messages.
+
+Course coordinators are requested to share the announcement through approved departmental channels and avoid sending duplicate or unverified versions of the notice.
+
+Regards,
+
+Corporate Relations and Placements
+MPSTME
+
+
+11.
+
+Subject: NMIMS Knowledge Trendsetters – Faculty Edition: Research Visibility and Academic Profiles
+
+Content: Dear Faculty Members,
+
+Greetings from the Library Team!
+
+We are pleased to share a new edition of “NMIMS Knowledge Trendsetters,” focusing on research visibility and the development of a clear academic profile. The issue offers guidance on presenting scholarly work, maintaining accurate publication records, and making research outputs easier for colleagues, students, and collaborators to discover.
+
+The newsletter discusses the importance of consistent author information, responsible use of academic networking platforms, effective literature discovery, and the role of institutional library resources in supporting research. It also includes library updates, database tips, and information about services available to faculty members across campuses.
+
+Faculty members are encouraged to review the attached issue and use the suggestions where relevant to their teaching and research practice. Please ensure that publication details, affiliations, and research claims are represented accurately when updating any professional or academic profile.
+
+The newsletter is attached for your reference and will also be made available through the University Website and relevant library channels. We welcome suggestions for future editions, including resources on research impact, scholarly communication, citation management, and open-access publishing.
+
+Thank you for your continued engagement with the library's academic support initiatives.
+
+Best regards,
+
+Team Library
+NMIMS
+
+
+12.
+
+Subject: Sattva Cultural Festival – Faculty Invitation to the Artist Reveal
+
+Content: Dear Faculty Members,
+
+Warm greetings!
+
+As preparations continue for Sattva, the official cultural festival of MPSTME, we are pleased to invite faculty members to the artist reveal for the upcoming Pro Night. The event will provide a preview of the performers and activities planned for the festival and will mark an important milestone in the campus celebrations.
+
+Event details:
+
+Date: As stated in the attached event notice
+Time: As stated in the attached event notice
+Venue: MPSTME campus
+
+Faculty members are welcome to join the announcement and encourage students to participate in the festival responsibly. The organizing team will share additional information about the programme, entry arrangements, and event guidelines through the official channels.
+
+We request faculty members to direct any questions regarding stage access, event logistics, or student participation to the Sattva organizing committee rather than relying on unofficial messages. Further updates will be circulated as the festival approaches.
+
+We look forward to your participation and support in making the festival an engaging and memorable campus experience.
+
+Warm regards,
+
+Sattva Organizing Committee
+MPSTME
+
+
+13.
+
+Subject: Important Notice: Use of the Faculty Portal for Institutional Announcements
+
+Content: Dear Faculty Members,
+
+Please note that announcements concerning departmental activities, academic events, faculty development programmes, research initiatives, committee updates, institutional collaborations, and other official matters should be submitted through the designated Faculty Portal or the approved communication channel, as applicable, rather than being circulated through informal email chains.
+
+Faculty members coordinating an event or initiative are requested to provide a clear subject line, concise announcement text, relevant dates and venues, registration or reference links, and any supporting documents required for publication. Please verify all information before submission and ensure that attachments are accessible and appropriately named.
+
+Heads of Departments and programme coordinators are requested to share this instruction with their teams. Time-sensitive announcements should be submitted sufficiently in advance to allow the concerned administrative team to review and publish them. Sensitive, confidential, or student-specific information must not be included in general announcements.
+
+Please check the Faculty Portal regularly for institutional updates and follow the prescribed process for reporting errors or requesting corrections. For technical assistance, contact the portal support team through the official help channel.
+
+Thank you for helping maintain a consistent and reliable source of institutional communication.
+
+Regards,
+
+Office of Academic Administration
+NMIMS MPSTME
+
+
+14.
+
+Subject: Access to Pai's Friends Library – Reading Resources for Faculty and Staff
+
+Content: Dear Faculty Members and Staff,
+
+We are pleased to inform you that faculty members, staff, and students may make use of the services offered by Pai's Friends Library, a circulating library with a wide collection of English and Marathi books, magazines, and children's literature.
+
+The facility provides an additional avenue for recreational reading, personal learning, and professional development. Faculty members may explore the collection for their own reading interests or recommend suitable titles to students who wish to develop a regular reading habit beyond their prescribed academic material.
+
+To explore the collection, please visit:
+https://friendslibrary.in/
+
+If you would like to borrow a particular title, please share the book title and author details with the designated library contact, Ms. Shweta Desai, at Shweta.Desai@nmims.edu. The library team will coordinate with Pai's Friends Library, confirm availability, and notify the requester once the book is available for use. Please wait for confirmation before making arrangements to collect a requested title.
+
+We encourage everyone to make use of this facility and to share suggestions for books or genres that would be useful to the campus community.
+
+Happy reading!
+
+Best regards,
+
+Team Library
+NMIMS
+
+
+15.
+
+Subject: CoCubes Technical and Gamified Assessment – Schedule and Faculty Coordination for Batch 2027
+
+Content: Dear Faculty Members and Programme Coordinators,
+
+Please find attached the schedule for the upcoming CoCubes Technical and Gamified Assessment for the eligible students of Batch 2027. The assessment is intended for the student groups specified in the official notice, including those who were unable to attend the earlier scheduled assessment.
+
+Faculty members are requested to review the programme-wise and venue-wise allocation in the attached timetable. Please note that students who have already completed the assessment should follow the instructions in the official notice and should not register for or attend a repeat session unless specifically instructed.
+
+For effective coordination, kindly ensure that:
+
+• Eligible students are informed of their date, reporting time, venue, and assessment sequence.
+• Students carry the identification and other requirements specified by the assessment provider.
+• Any timetable conflict or discrepancy is reported to the Placement Department promptly.
+• Faculty or staff members assigned to support the process are aware of their duties and reporting arrangements.
+• Students follow the assessment provider's rules and maintain appropriate conduct throughout the process.
+
+Please treat the attached timetable as the reference document and avoid circulating partial screenshots without the accompanying instructions. Any updates will be communicated through the official placement channel.
+
+Thank you for your support in coordinating this assessment.
+
+Regards,
+
+Corporate Relations and Placements
+MPSTME
+
+
+16.
+
+Subject: Women in Technology Hackathon – Request to Encourage Eligible Students to Apply
+
+Content: Dear Faculty Members,
+
+We are sharing details of an upcoming women-focused technology hackathon intended for eligible engineering students. The initiative is designed to give participants an opportunity to solve practical technology problems, collaborate with peers, receive guidance from industry mentors, and present their solutions to a professional audience.
+
+The competition may include an individual online assessment, team formation, proposal submission, a virtual development phase, and a final presentation. The exact stages, eligibility rules, team size, registration deadline, and possible rewards are provided in the organizer's circular and should be checked before sharing further details.
+
+Faculty members are requested to circulate the announcement among eligible students and encourage those who are interested to apply through the official registration channels. Please remind students that each participant may need to complete individual registration and clear the initial assessment before progressing to later rounds. Any restrictions on team composition or use of AI tools must be followed as specified by the organizers.
+
+Faculty mentors may support students by discussing project scope, feasibility, responsible use of technology, and presentation quality. However, all submissions should remain the work of the participating students and comply with the competition's rules.
+
+The official link and full guidelines are included in the attached notice. Please direct questions about selection, assessment format, or the final event to the organizer's contact point.
+
+Best regards,
+
+Corporate Relations and Placements
+MPSTME
+
+
+17.
+
+Subject: Online Placement Training Programme – Faculty Coordination for Circuit Streams
+
+Content: Dear Faculty Members,
+
+In continuation of the Placement Training Programme for the eligible graduating batch, the next online aptitude training sessions are scheduled for Saturday and Sunday, 7 and 8 November 2026. The sessions are intended to help students strengthen their quantitative aptitude, logical reasoning, and assessment readiness.
+
+Session details:
+
+Dates: Saturday, 7 November 2026, and Sunday, 8 November 2026
+Time: 7:00 PM to 9:00 PM
+Mode: Online
+Meeting link: To be shared through the official placement communication
+
+Faculty members and class coordinators are requested to inform the relevant students and encourage them to join on time. Please remind students to test their internet connection, keep the required learning material ready, and follow the online-session guidelines. Students should use their institutional identity when joining if required by the training provider.
+
+Where academic or laboratory commitments overlap with the session, please coordinate with the concerned programme authority rather than making individual changes to the published training schedule. Any joining issue should be reported through the contact channel provided by the Placement Department.
+
+Thank you for supporting students' preparation for recruitment assessments.
+
+Regards,
+
+Corporate Relations and Placements
+MPSTME
+
+
+18.
+
+Subject: Important Update: Industry Coding Competition and Internship Opportunity – Faculty Outreach
+
+Content: Dear Faculty Members,
+
+The Placement Department wishes to bring to your attention an industry coding competition that may be relevant to students interested in software development and opportunities with a global financial services organization. Participation is subject to the eligibility, assessment, and selection conditions defined by the organizers.
+
+Faculty members teaching programming, data structures, algorithms, and related subjects are requested to share the official announcement with eligible students. Please emphasize that interested students must complete all required registration steps within the stated deadline. Where the process includes an institutional nomination form and a separate company registration page, both requirements must be completed as specified.
+
+The official notice contains information about:
+
+• Eligible programmes and graduating batches
+• Registration and nomination links
+• Assessment format and competition timelines
+• Any required executive summary or supporting submission
+• The nature of the internship or interview opportunity, including applicable performance and business requirements
+
+Students should not assume that participation guarantees an internship or job offer. They should review the selection conditions and submit accurate information through the official channels. Late or incomplete submissions may not be considered if the organizers impose a firm deadline.
+
+Please use the attached communication as the authoritative reference and direct individual registration queries to the Placement Department.
+
+Regards,
+
+Corporate Relations and Placements
+MPSTME
+
+
+19.
+
+Subject: Rescheduled Q&A Session for Industry Coding Competition – Faculty Notice
+
+Content: Dear Faculty Members,
+
+Please note that the Q&A session for the industry coding competition has been rescheduled following technical difficulties during the earlier information session. The revised meeting details and joining instructions are provided below and in the organizer's latest communication.
+
+Rescheduled session:
+
+Date: As specified in the latest organizer notice
+Time: As specified in the latest organizer notice
+Platform: Microsoft Teams or the platform indicated by the organizers
+Joining link: Please refer to the official communication
+
+Faculty members are requested to share the updated information with students who have registered or expressed interest in participating. Students may use the session to clarify programme logistics, competition timelines, submission requirements, assessment format, and general eligibility conditions.
+
+Please note that the organizers may not respond to questions about specific competition problems or confidential assessment content, in order to maintain fairness for all participants. Faculty members should advise students to follow the event rules and rely on the official communication for any subsequent updates.
+
+We regret any inconvenience caused by the schedule change and appreciate your help in ensuring that students receive the revised details promptly.
+
+Regards,
+
+Competition Coordination Team
+Corporate Relations and Placements
+
+
+20.
+
+Subject: Faculty Portal Update: Submission of Departmental Events and Activity Reports
+
+Content: Dear Faculty Members,
+
+To maintain accurate institutional records and improve coordination across departments, faculty members coordinating seminars, workshops, guest lectures, conferences, student competitions, outreach activities, or industry interactions are requested to submit the relevant event information and activity reports through the designated Faculty Portal or reporting mechanism.
+
+A complete submission should normally include:
+
+1. Event title, date, time, venue, and organizing department.
+2. Names and affiliations of speakers, guests, or partner organizations, where applicable.
+3. A brief description of the purpose, activities, and outcomes.
+4. Participation details and supporting evidence, where required.
+5. Approved photographs, publicity material, or other attachments, subject to institutional guidelines.
+6. The name and contact details of the faculty coordinator responsible for the submission.
+
+Please ensure that reported information is accurate and that any photographs or personal details are shared in accordance with the institution's policies. Reports should be submitted within the timeline communicated by the department or relevant committee so that records can be consolidated for institutional review.
+
+Heads of Departments are requested to remind event coordinators of this requirement and help resolve any access or submission issues through the official support channel.
+
+Thank you for your cooperation.
+
+Regards,
+
+Office of Academic Administration
+NMIMS MPSTME
+
+
+21.
+
+Subject: Faculty Reference Copy – Student Resource Book and Academic Guidelines for A.Y. 2026-27
+
+Content: Dear Faculty Members,
+
+The updated Student Resource Book and Academic Guidelines for A.Y. 2026-27 are being circulated for your reference. The document brings together information on student responsibilities, academic procedures, institutional expectations, and relevant rules and regulations.
+
+Faculty members are requested to review the sections relevant to their teaching, mentoring, and course-coordination responsibilities. Class mentors and programme coordinators should guide students to read the document carefully, particularly the provisions relating to attendance, academic conduct, assessment procedures, student activities, and submission of required undertakings or declarations.
+
+Where a student undertaking or acknowledgement is required, please follow the instructions and deadlines communicated by the relevant administrative office. Faculty members should not collect documents in a format different from the prescribed procedure and should direct students to the official channel if they have questions about submission requirements.
+
+The latest copy is attached for reference and should be treated as the current version only where confirmed by the issuing office. Any clarification or correction should be routed to the office responsible for the Student Resource Book.
+
+Thank you for helping ensure that students are aware of institutional guidelines and know where to find the authoritative information.
+
+Regards,
+
+Office of Academic Administration
+MPSTME
+
+
+22.
+
+Subject: Final Round of Open Elective Preference Registration – OE 3 and OE 4, Term II
+
+Content: Dear Faculty Members and Course Coordinators,
+
+The final round of preference registration for Open Electives OE 3 and OE 4 for Term II will be conducted through the university portal. The updated course catalogue and registration instructions are available for reference. Please review the official notice for the confirmed opening and closing times before advising students.
+
+Faculty mentors and class coordinators are requested to remind eligible students to verify their portal credentials in advance and prepare their preferences before beginning the registration process. Students should read the course descriptions, eligibility criteria, available seat limits, and prerequisites carefully. They should not select a course for which they have already registered in an earlier elective basket if the rules prohibit repeated registration.
+
+Please draw students' attention to the following conditions:
+
+1. Course allotment will follow the process stated in the official notice, including applicable availability and eligibility requirements.
+2. Students should enter the required number of preferences in their intended priority order.
+3. Preferences must be reviewed carefully before final submission, as changes may not be permitted afterward.
+4. Students should follow the stated login and submission limits and retain any confirmation generated by the portal.
+5. Any technical issue should be reported promptly to the appropriate course coordinator or portal support team, along with a screenshot or screen recording where requested.
+
+Portal link:
+https://portal.svkm.ac.in/OE/elective/loginPage
+
+Course coordinators are requested to remain available through the registration window to address course-related queries. Please do not share login credentials over email or ask students to disclose their passwords.
+
+Thank you for your support in completing the elective registration process smoothly.
+
+Regards,
+
+Academic Coordination Office
+MPSTME

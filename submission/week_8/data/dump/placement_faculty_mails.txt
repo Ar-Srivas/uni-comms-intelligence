@@ -1,0 +1,288 @@
+20 SYNTHETIC FACULTY EMAILS
+Purpose: Synthetic examples for NLP development and evaluation.
+Note: These messages are fictional and should not be treated as real university notices.
+
+FACULTY_001
+Subject: Faculty Review Required: Placement Eligibility List
+
+Dear Faculty Members,
+
+The Placement Cell has prepared the preliminary eligibility list for the upcoming campus recruitment drive. Kindly review the students from your respective divisions and verify their programme, semester, CGPA status, and active backlog information.
+
+Please send corrections to the Placement Cell by 3:00 PM on Friday, 6 November 2026. If no corrections are required, please confirm that the list has been reviewed.
+
+Thank you for your cooperation.
+
+Regards,
+Placement Cell
+MPSTME, NMIMS Mumbai
+
+==============================================================================
+
+FACULTY_002
+Subject: Request to Nominate Faculty Coordinators for Recruitment Assessments
+
+Dear Programme Coordinators,
+
+We are coordinating the on-campus recruitment assessments scheduled for the second week of November. Each programme is requested to nominate one faculty coordinator to assist with student reporting, room allocation, and communication with the Placement Cell.
+
+Please share the coordinator's name, department, and official contact details by 4 November 2026. The final duty roster will be circulated after nominations are received.
+
+Regards,
+Corporate Relations and Placements
+
+==============================================================================
+
+FACULTY_003
+Subject: Confirmation of Computer Labs for Online Assessment
+
+Dear Lab In-Charges,
+
+An online technical assessment for the 2027 graduating batch is tentatively scheduled for 10 November 2026. Please confirm the availability of the computer laboratories assigned to your department and verify that systems, browsers, webcams, and network access are functioning.
+
+Kindly report any technical issues to the IT support team by 5 November 2026. Please do not reserve additional rooms until the final timetable is approved.
+
+Regards,
+Placement Assessment Coordination Team
+
+==============================================================================
+
+FACULTY_004
+Subject: Faculty Feedback Requested on Industry Training Module
+
+Dear Faculty Members,
+
+The Placement Cell is reviewing the current industry-readiness training module for final-year students. We request your feedback on the relevance of the technical topics, the balance between theory and practical exercises, and any gaps you have observed in student preparation.
+
+Please submit your suggestions using the department feedback form by 9 November 2026. Consolidated feedback will be discussed at the next placement coordination meeting.
+
+Thank you,
+Corporate Relations and Placements
+
+==============================================================================
+
+FACULTY_005
+Subject: Request for Updated Student Skill and Project Information
+
+Dear Class Coordinators,
+
+We are updating the student profile database that will be shared with eligible recruiting organisations. Please ask students in your division to verify their technical skills, project titles, internship experience, certifications, and preferred job domains.
+
+Kindly review the completed entries for obvious omissions and submit the consolidated status to the Placement Cell by 12 November 2026. Please do not include sensitive personal information that is not requested in the form.
+
+Regards,
+Placement Cell
+
+==============================================================================
+
+FACULTY_006
+Subject: Availability Confirmation for Mock Interview Panel
+
+Dear Faculty Members,
+
+Mock interviews for students preparing for upcoming campus placements will be conducted during the week of 16 November 2026. We are preparing panels covering software engineering, data science, electronics, communication skills, and general interview readiness.
+
+Please share your available time slots and preferred interview domain by 6 November 2026. The coordinator will assign student groups and circulate the final schedule once faculty availability has been confirmed.
+
+Regards,
+Faculty Placement Coordination Team
+
+==============================================================================
+
+FACULTY_007
+Subject: Reminder to Submit Attendance for Placement Training
+
+Dear Faculty Coordinators,
+
+This is a reminder to submit the attendance records for students who attended the placement training sessions held last week. The records are required to identify students who need additional preparation support and to maintain the department's training report.
+
+Please verify the attendance against the session registers and send the completed sheet to the Placement Cell by 5:00 PM on 3 November 2026. Flag any discrepancies instead of estimating missing attendance.
+
+Regards,
+Placement Cell
+
+==============================================================================
+
+FACULTY_008
+Subject: Departmental Confirmation of Eligible Students for Internship Drive
+
+Dear Department Coordinators,
+
+A company has requested a preliminary list of students who meet the academic criteria for an internship recruitment drive. Kindly verify the relevant programme, passing-out year, minimum academic requirements, and backlog status against the official records available to your department.
+
+Please return the verified list by 7 November 2026. The Placement Cell will make the final eligibility communication after consolidating departmental confirmations.
+
+Regards,
+Corporate Relations and Placements
+
+==============================================================================
+
+FACULTY_009
+Subject: Request for Faculty Volunteers for Placement Orientation
+
+Dear Faculty Members,
+
+An orientation session for students participating in the upcoming placement season is planned for 13 November 2026. We are seeking faculty volunteers to guide students on professional conduct, interview preparation, and communication with recruiters.
+
+Please indicate your availability and the topic you would be comfortable covering by 6 November 2026. Session timings and room allocations will be shared after the volunteer list is finalised.
+
+Thank you,
+Placement Cell
+
+==============================================================================
+
+FACULTY_010
+Subject: Review of Technical Assessment Syllabus Coverage
+
+Dear Subject Faculty,
+
+The Placement Cell has received the broad topic outline for an upcoming technical assessment. We request faculty teaching relevant subjects to review the outline and identify any topic names that may be unclear or inconsistent with the programme curriculum.
+
+Please send comments or suggested clarifications by 8 November 2026. This review is intended to help students understand the announced scope; it does not require faculty to prepare or circulate assessment questions.
+
+Regards,
+Assessment Coordination Team
+
+==============================================================================
+
+FACULTY_011
+Subject: Please Verify Room and Invigilation Duty Roster
+
+Dear Faculty Members,
+
+The draft invigilation roster for the campus recruitment assessment is ready for departmental verification. Please check your assigned date, reporting time, venue, and duty period, and notify the department coordinator if you have a timetable conflict.
+
+Corrections must reach the Placement Cell by 12:00 PM on 4 November 2026. Please wait for the approved roster before making any duty exchanges.
+
+Regards,
+Placement Assessment Coordination Team
+
+==============================================================================
+
+FACULTY_012
+Subject: Request to Identify Students Requiring Additional Aptitude Support
+
+Dear Class Mentors,
+
+Recent practice assessment results indicate that some students may benefit from additional support in quantitative aptitude, logical reasoning, communication, or coding. Kindly review the aggregate performance information shared with your department and identify students who may need guidance.
+
+Please send only the student IDs and relevant support area to the designated coordinator by 10 November 2026. Avoid circulating individual scores beyond staff who need the information for this purpose.
+
+Regards,
+Placement Training Team
+
+==============================================================================
+
+FACULTY_013
+Subject: Coordination Meeting on Placement Season Readiness
+
+Dear Programme Coordinators,
+
+A placement readiness coordination meeting will be held on 9 November 2026 at 2:30 PM in the department meeting room. The agenda includes training progress, assessment logistics, student eligibility verification, and support required from academic departments.
+
+Please review your programme's current status and bring any pending issues that require a decision. Kindly confirm your attendance by replying to this email by 6 November 2026.
+
+Regards,
+Head, Corporate Relations and Placements
+
+==============================================================================
+
+FACULTY_014
+Subject: Request for Updated Faculty Expertise Areas for Interview Panels
+
+Dear Department Heads,
+
+We are updating the faculty expertise directory to help form suitable mock interview panels for the placement season. Please submit faculty names alongside their broad technical domains, such as programming, databases, machine learning, cybersecurity, electronics, or communication skills.
+
+Kindly provide the updated information by 11 November 2026. Please confirm that each faculty member has agreed to be listed before submitting their details.
+
+Regards,
+Placement Cell
+
+==============================================================================
+
+FACULTY_015
+Subject: Faculty Review of Student Resume Workshop Materials
+
+Dear Faculty Members,
+
+The Placement Cell has prepared draft materials for a student resume workshop, including guidance on project descriptions, internship experience, technical skills, and formatting. We request faculty members to review the technical guidance for accuracy and relevance to current student projects.
+
+Please add comments to the shared review copy by 7 November 2026. Kindly avoid including student-specific personal information in the general workshop material.
+
+Regards,
+Placement Training Team
+
+==============================================================================
+
+FACULTY_016
+Subject: Request to Confirm Student Project Demonstrators for Recruiter Visit
+
+Dear Project Coordinators,
+
+A recruiter visit is being planned for later this month, and the company has expressed interest in viewing selected student projects relevant to software, analytics, and applied engineering. Please identify projects suitable for a short demonstration and confirm that the student teams are available.
+
+Submit project titles, supervising faculty names, required equipment, and any room requirements by 13 November 2026. Final selection and visit timing will be communicated separately.
+
+Regards,
+Industry Relations Team
+
+==============================================================================
+
+FACULTY_017
+Subject: Action Required: Share Departmental Placement Training Calendar
+
+Dear Department Coordinators,
+
+We are consolidating the placement training calendar across programmes to avoid clashes with laboratory sessions, internal assessments, and other academic activities. Please share your department's confirmed academic commitments for the period from 16 to 30 November 2026.
+
+Send the calendar or a list of unavailable time slots by 5 November 2026. If there are no known clashes, please confirm this explicitly so the central schedule can be finalised.
+
+Regards,
+Placement Cell
+
+==============================================================================
+
+FACULTY_018
+Subject: Request for Feedback on Recent Recruiter Interaction
+
+Dear Faculty Coordinators,
+
+Following the recent recruiter interaction, we are collecting feedback on student preparedness, the clarity of the recruitment briefing, and any recurring questions raised during the session. Your observations will help us improve the next orientation and training cycle.
+
+Please send a brief summary of your feedback by 9 November 2026. Where possible, separate general observations from individual student concerns and avoid sharing unverified information.
+
+Thank you,
+Corporate Relations and Placements
+
+==============================================================================
+
+FACULTY_019
+Subject: Verification of Department Contact Details for Placement Communications
+
+Dear Department Office Representatives,
+
+The Placement Cell is refreshing its distribution list before the next recruitment cycle. Please verify the department's official email address, faculty coordinator, alternate contact, and programme names shown in the attached directory.
+
+Kindly return corrections by 4 November 2026. Please use official institutional contact details and indicate clearly if a listed coordinator has changed roles.
+
+Regards,
+Placement Administration
+
+==============================================================================
+
+FACULTY_020
+Subject: Request for Faculty Support During Company Pre-Placement Talk
+
+Dear Faculty Members,
+
+A company pre-placement talk for eligible students is planned for 17 November 2026 from 3:00 PM to 4:00 PM. We request faculty support in directing students to the designated venue, helping maintain an orderly start, and sharing any academic timetable conflicts with the coordinator in advance.
+
+Please confirm whether your department can provide a representative by 12 November 2026. The meeting link or room details will be circulated after the company confirms the final format.
+
+Regards,
+Placement Cell
+MPSTME, NMIMS Mumbai
+
+==============================================================================
+
