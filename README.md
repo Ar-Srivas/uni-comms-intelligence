@@ -44,13 +44,32 @@ Evaluation outputs are generated under `reports/classification/`:
 - `category_confusion_matrix.png`
 - `category_errors.csv` & `audience_errors.csv`
 
-#### Run Inference
-```bash
-# Text input
-uv run python scripts/predict.py --text "All students must submit exam forms by Oct 15."
 
-# PDF input
-uv run python scripts/predict.py --pdf data/raw/pdfs/0029.pdf
+
+### Web app
+
+The FastAPI backend is in `src/`; the vanilla HTML, CSS, and JavaScript frontend
+is in `frontend/`. At startup, the backend loads classifier artifacts from
+`src/models/` and the summarizer from `src/models/summarizer_final/`.
+
+Run the app from the repository root:
+
+```powershell
+uv run uvicorn src.api:app --reload
 ```
 
-For complete architectural details, see [docs/CLASSIFIER_GUIDE.md](docs/CLASSIFIER_GUIDE.md).
+Open `http://127.0.0.1:8000/` to use the frontend. The API has two routes:
+
+| Method and route | Purpose |
+| --- | --- |
+| `GET /health` | Returns `{"status": "running"}` when the app is available. |
+| `POST /process-notice` | Analyzes a notice and returns its title, predicted category and audience, extracted entities, persona summaries, and generated emails. |
+
+Send `POST /process-notice` a JSON body with a document ID and notice text:
+
+```json
+{
+  "doc_id": "notice_2026_001",
+  "text": "Students must submit exam forms by 15/11/2026."
+}
+```
